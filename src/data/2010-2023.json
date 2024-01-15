@@ -1,0 +1,3073 @@
+[
+    {
+        "category": "Science",
+        "question": "Who was awarded the 2020 Nobel Prize in Physics?",
+        "answer": "Roger Penrose, Reinhard Genzel, and Andrea Ghez"
+    },
+    {
+        "category": "Science",
+        "question": "What is the name of the Coronavirus disease that emerged in 2019?",
+        "answer": "COVID-19"
+    },
+    {
+        "category": "Science",
+        "question": "Which private company successfully launched astronauts into space for the first time in 2020?",
+        "answer": "SpaceX"
+    },
+    {
+        "category": "Science",
+        "question": "What kind of particles are detected by the Large Hadron Collider?",
+        "answer": "Subatomic particles"
+    },
+    {
+        "category": "Science",
+        "question": "What was the name of the Mars rover that landed in 2021?",
+        "answer": "Perseverance"
+    },
+
+    {
+        "category": "Geography/History",
+        "question": "Who was elected as the president of the United States in 2020?",
+        "answer": "Joe Biden"
+    },
+    {
+        "category": "Geography/History",
+        "question": "What country left the European Union officially on January 31, 2020?",
+        "answer": "United Kingdom"
+    },
+    {
+        "category": "Geography/History",
+        "question": "During 2014, which region controversially declared independence from Ukraine?",
+        "answer": "Crimea"
+    },
+    {
+        "category": "Geography/History",
+        "question": "Which city hosted the 2016 Summer Olympics?",
+        "answer": "Rio de Janeiro"
+    },
+    {
+        "category": "Geography/History",
+        "question": "What was the name of the devastating earthquake that hit Nepal in 2015?",
+        "answer": "Gorkha Earthquake"
+    },
+
+    {
+        "category": "Entertainment",
+        "question": "Who won the Oscar for Best Actor in 2019?",
+        "answer": "Rami Malek"
+    },
+    {
+        "category": "Entertainment",
+        "question": "Which movie won the Oscar for Best Picture in 2020?",
+        "answer": "Parasite"
+    },
+    {
+        "category": "Entertainment",
+        "question": "Who performed the halftime show at the Super Bowl in 2020?",
+        "answer": "Jennifer Lopez and Shakira"
+    },
+    {
+        "category": "Entertainment",
+        "question": "What is the highest-grossing film of the 2010s decade?",
+        "answer": "Avengers: Endgame"
+    },
+    {
+        "category": "Entertainment",
+        "question": "In 2017, Billboard named what artist the Top female solo performer in the United States?",
+        "answer": "Beyonce"
+    },
+
+    {
+        "category": "Sports/Hobbies",
+        "question": "Who won the men's singles title at Wimbledon in 2013?",
+        "answer": "Andy Murray"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "Where was the 2014 FIFA World Cup held?",
+        "answer": "Brazil"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "Which country won the 2018 FIFA World Cup?",
+        "answer": "France"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "Who was named TIME’s Athlete of the Year in 2020?",
+        "answer": "LeBron James"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "Why was the 2020 Olympic Games postponed?",
+        "answer": "COVID-19 pandemic"
+    },
+
+    {
+        "category": "Art",
+        "question": "Who won the Grammy for Album of the Year in 2020?",
+        "answer": "Billie Eilish"
+    },
+    {
+        "category": "Art",
+        "question": "Who painted 'The Physical Impossibility of Death in the Mind of Someone Living' that sold for a record amount in 2013?",
+        "answer": "Damien Hirst"
+    },
+    {
+        "category": "Art",
+        "question": "Who painted the 'Salvator Mundi' that sold for over $450 million in 2017?",
+        "answer": "Leonardo da Vinci"
+    },
+    {
+        "category": "Art",
+        "question": "What kind of art style did Shepard Fairey use in his iconic 'Hope' poster for Barack Obama's 2008 campaign?",
+        "answer": "Street Art"
+    },
+    {
+        "category": "Art",
+        "question": "Which book series, first published in the 2010s, features a dystopian future society where youth fight to the death in a televised event?",
+        "answer": "The Hunger Games"
+    },
+
+    {
+        "category": "Miscellaneous",
+        "question": "What type of device is the 'Amazon Echo'?",
+        "answer": "Smart Speaker"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "What hashtag began trending worldwide after Alyssa Milano encouraged victims of sexual harassment to use it in 2017?",
+        "answer": "#MeToo"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "What dish popularized by a Netflix series in 2020 involves folding whipped coffee into milk?",
+        "answer": "Dalgona Coffee"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "Which online platform founded in 2005 has become a hub for DIY creators, bloggers, and influencers?",
+        "answer": "YouTube"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "What is the name of the popular visual discovery engine that people use to find ideas for recipes, home and style inspiration, and more?",
+        "answer": "Pinterest"
+    },
+    {
+        "category": "Science",
+        "question": "What natural disaster struck Japan in 2011 triggering a nuclear crisis?",
+        "answer": "Tsunami"
+    },
+    {
+    "category": "Science",
+    "question": "What scientific theory did the 2011 discovery of the Higgs Boson support?",
+    "answer": "The Standard Model"
+    },
+    {
+    "category": "Science",
+    "question": "Is the statement 'CRISPR technology allows for the 'cutting' and 'pasting' of DNA' true or false?",
+    "answer": "True"
+    },
+    {
+    "category": "Science",
+    "question": "What key planet in our solar system did NASA's spacecraft 'New Horizons' explore in 2015?",
+    "answer": "Pluto"
+    },
+    {
+    "category": "Science",
+    "question": "Who won the 2012 Nobel Prize in Physiology or Medicine for creating induced pluripotent stem cells?",
+    "answer": "Shinya Yamanaka"
+    },
+
+    {
+    "category": "Geography/History",
+    "question": "Which major world power restores relations with the United States in 2015 after a 54-year freeze?",
+    "answer": "Cuba"
+    },
+    {
+    "category": "Geography/History",
+    "question": "What Middle Eastern group declared itself a caliphate in 2014?",
+    "answer": "ISIS"
+    },
+    {
+    "category": "Geography/History",
+    "question": "Is the statement 'Queen Elizabeth II became the longest-reigning British monarch in 2015' true or false?",
+    "answer": "True"
+    },
+    {
+    "category": "Geography/History",
+    "question": "In 2011, which country began a civil war that is known for causing one of the deadliest crises of the 21st century?",
+    "answer": "Syria"
+    },
+    {
+    "category": "Geography/History",
+    "question": "Who succeeded Fidel Castro as Cuba’s leader in 2018?",
+    "answer": "Miguel Díaz-Canel"
+    },
+
+    {
+    "category": "Entertainment",
+    "question": "Which TV series finale in 2019 broke the record for the most-watched single telecast?",
+    "answer": "Game of Thrones"
+    },
+    {
+    "category": "Entertainment",
+    "question": "Which band released the chart-topping 'Rumours' album in 2010?",
+    "answer": "Fleetwood Mac"
+    },
+    {
+    "category": "Entertainment",
+    "question": "Which film franchise based on the books by J.K. Rowling released its last movie in 2011?",
+    "answer": "Harry Potter"
+    },
+    {
+    "category": "Entertainment",
+    "question": "Is the statement 'The Mandalorian was the first live-action series in the Star Wars franchise' true or false?",
+    "answer": "True"
+    },
+    {
+    "category": "Entertainment",
+    "question": "What movie won the Academy Award for Best Animated Feature in 2019?",
+    "answer": "Spider-Man: Into the Spider-Verse"
+    },
+
+    {
+    "category": "Sports/Hobbies",
+    "question": "Who won the 2010 FIFA World Cup?",
+    "answer": "Spain"
+    },
+    {
+    "category": "Sports/Hobbies",
+    "question": "Who broke the record for most Olympic gold medals won by an individual in London 2012?",
+    "answer": "Michael Phelps"
+    },
+    {
+    "category": "Sports/Hobbies",
+    "question": "Is the statement 'Usain Bolt set the world record for the 100m dash at the 2012 Olympics' true or false?",
+    "answer": "False"
+    },
+    {
+    "category": "Sports/Hobbies",
+    "question": "The 2022 FIFA World Cup is scheduled to be held in what country?",
+    "answer": "Qatar"
+    },
+    {
+    "category": "Sports/Hobbies",
+    "question": "What team won the Super Bowl in 2018?",
+    "answer": "Philadelphia Eagles"
+    },
+    {
+    "category": "Arts",
+    "question": "In 2013, which famous painting was sold for a record $142.4 million at an auction?",
+    "answer": "Three Studies of Lucian Freud by Francis Bacon"
+    },
+    {
+        "category": "Arts",
+        "question": "Which artist released the hit single 'Rolling in the Deep' in 2010?",
+        "answer": "Adele"
+    },
+    {
+        "category": "Arts",
+        "question": "Is the statement 'Lupita Nyong'o won an Oscar for her role in '12 Years a Slave'' true or false?",
+        "answer": "True"
+    },
+    {
+        "category": "Arts",
+        "question": "Who won the 2019 Grammy for Album of the Year?",
+        "answer": "Kacey Musgraves"
+    },
+    {
+        "category": "Arts",
+        "question": "The hit musical 'Hamilton' debuted on Broadway in what year?",
+        "answer": "2015"
+    },
+
+    {
+        "category": "Miscellaneous",
+        "question": "What game, released in 2016, uses geo-location to allow players to capture creatures in the real world?",
+        "answer": "Pokemon Go"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "What is the name of the whistleblower who in 2013 revealed the extent of the NSA's data collection?",
+        "answer": "Edward Snowden"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "Is the statement 'Bitcoin reached an all-time high of around $20,000 per bitcoin in 2017' true or false?",
+        "answer": "True"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "What major tech company purchased LinkedIn for $26.2 billion in 2016?",
+        "answer": "Microsoft"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "What is the name of Elon Musk's private space transportation company founded in 2002?",
+        "answer": "SpaceX"
+    },
+    {
+        "category": "Science",
+        "question": "What comet made its most recent approach to the sun in December 2011, becoming visible by naked eye on Earth?",
+        "answer": "Comet Lovejoy"
+    },
+    {
+        "category": "Science",
+        "question": "Is the statement 'The human genome was fully decoded for the first time in 2010' true or false?",
+        "answer": "False"
+    },
+    {
+        "category": "Science",
+        "question": "What planet in our solar system did NASA's Curiosity Rover land on in 2012?",
+        "answer": "Mars"
+    },
+    {
+        "category": "Science",
+        "question": "Which astronomer's theory of general relativity was confirmed with an image of a black hole in 2019?",
+        "answer": "Albert Einstein"
+    },
+    {
+        "category": "Science",
+        "question": "What disease caused a worldwide pandemic in 2020?",
+        "answer": "COVID-19"
+    },
+
+    {
+        "category": "Geography/History",
+        "question": "Which country hosted the 2010 FIFA World Cup?",
+        "answer": "South Africa"
+    },
+    {
+        "category": "Geography/History",
+        "question": "Is the statement 'The Arab Spring began in 2011 in Tunisia' true or false?",
+        "answer": "True"
+    },
+    {
+        "category": "Geography/History",
+        "question": "Who won the Nobel Peace Prize in 2014?",
+        "answer": "Malala Yousafzai and Kailash Satyarthi"
+    },
+    {
+        "category": "Geography/History",
+        "question": "What major treaty negotiating the terms of Brexit was signed in 2020?",
+        "answer": "The EU-UK Trade and Cooperation Agreement"
+    },
+    {
+        "category": "Geography/History",
+        "question": "What European country voted to leave the European Union in 2016?",
+        "answer": "United Kingdom"
+    },
+    {
+        "category": "Entertainment",
+        "question": "What movie won the Best Picture at the Oscars in 2011?",
+        "answer": "The King's Speech"
+    },
+    {
+        "category": "Entertainment",
+        "question": "Who won the Album of the Year at the Grammys in 2012?",
+        "answer": "Adele"
+    },
+    {
+        "category": "Entertainment",
+        "question": "Who played the lead role in the 2013 movie 'Wolf of Wall Street'?",
+        "answer": "Leonardo DiCaprio"
+    },
+    {
+        "category": "Entertainment",
+        "question": "Which television series finale aired in 2019 had nearly 19.3 million viewers?",
+        "answer": "Game of Thrones"
+    },
+    {
+        "category": "Entertainment",
+        "question": "In 2021, who won the Grammy for Song of the Year?",
+        "answer": "H.E.R for 'I Can't Breathe'"
+    },
+
+    {
+        "category": "Sports/Hobbies",
+        "question": "Who won the FIFA Men’s World Cup in 2010?",
+        "answer": "Spain"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "Who won the gold medal in Men's 100 meter in 2012 London Olympics?",
+        "answer": "Usain Bolt"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "Which team won the Super Bowl in 2014?",
+        "answer": "Seattle Seahawks"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "What country hosted the 2016 Summer Olympics?",
+        "answer": "Brazil"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "In 2020, who won the Men's singles title at Wimbledon?",
+        "answer": "The event was cancelled due to COVID-19 pandemic."
+    },
+    {
+        "category": "Geography/History",
+        "question": "What country hosted the 2010 FIFA World Cup?",
+        "answer": "South Africa"
+    },
+    {
+        "category": "Geography/History",
+        "question": "Who became the President of Russia in 2012?",
+        "answer": "Vladimir Putin"
+    },
+    {
+        "category": "Geography/History",
+        "question": "Which country voted to leave the European Union in a 2016 referendum?",
+        "answer": "United Kingdom"
+    },
+    {
+        "category": "Geography/History",
+        "question": "Who was elected as the President of United States in 2020?",
+        "answer": "Joe Biden"
+    },
+    {
+        "category": "Geography/History",
+        "question": "What mobile game, launched in 2016, caused a worldwide sensation exploiting geolocation?",
+        "answer": "Pokémon Go"
+    },
+
+    {
+        "category": "Science",
+        "question": "What comet, visible from Earth, passed closest to the Sun in 2020?",
+        "answer": "Comet NEOWISE"
+    },
+    {
+        "category": "Science",
+        "question": "In what year was the final launch of NASA’s space shuttle program?",
+        "answer": "2011"
+    },
+    {
+        "category": "Science",
+        "question": "What space vehicle landed on Mars in 2012?",
+        "answer": "Curiosity Rover"
+    },
+    {
+        "category": "Science",
+        "question": "What was the name of the black hole photographed for the first time in human history in 2019?",
+        "answer": "Powehi"
+    },
+    {
+        "category": "Science",
+        "question": "In 2021, which billionaire, associated with a tech company, flew to space in his own rocket?",
+        "answer": "Jeff Bezos"
+    },
+    {
+        "category": "Entertainment",
+        "question": "Which fantasy series, based on books, premiered on HBO in 2011?",
+        "answer": "Game of Thrones"
+    },
+    {
+    "category": "Entertainment",
+    "question": "Who won an Oscar for Best Director for the 2013 film '12 Years a Slave'?",
+    "answer": "Steve McQueen"
+    },
+    {
+    "category": "Entertainment",
+    "question": "Who starred as Harley Quinn in the 2016 movie 'Suicide Squad'?",
+    "answer": "Margot Robbie"
+    },
+    {
+    "category": "Entertainment",
+    "question": "What is the name of the 2017 hit song by Luis Fonsi and Daddy Yankee?",
+    "answer": "Despacito"
+    },
+    {
+    "category": "Entertainment",
+    "question": "What are the fans of the Korean boy band BTS known as?",
+    "answer": "The Army"
+    },  
+    
+    {
+    "category": "Sports/Hobbies",
+    "question": "Which country won the 2014 FIFA World Cup?",
+    "answer": "Germany"
+    },  
+    {
+    "category": "Sports/Hobbies",
+    "question": "Who won the Men's Singles at the Wimbledon Championships in 2013?",
+    "answer": "Andy Murray"
+    },  
+    {
+    "category": "Sports/Hobbies",
+    "question": "Which boxer retired in 2017 with a record of 50 wins and no losses?",
+    "answer": "Floyd Mayweather Jr."
+    },  
+    {
+    "category": "Sports/Hobbies",
+    "question": "Who won Women's Singles of the US Open Tennis Championship in 2018?",
+    "answer": "Naomi Osaka"
+    },  
+    {
+    "category": "Sports/Hobbies",
+    "question": "Which NFL team won the Super Bowl in 2021?",
+    "answer": "Tampa Bay Buccaneers"
+    },
+    {
+    "category": "Science",
+    "question": "In 2012, which subatomic particle's existence was confirmed by scientists?",
+    "answer": "The Higgs Boson"
+    },
+    {
+    "category": "Science",
+    "question": "Which company launched Crew Dragon, the first crewed orbital spacecraft in 2020?",
+    "answer": "SpaceX"
+    },
+    {
+    "category": "Science",
+    "question": "What was the name of the Mars rover that landed in 2012?",
+    "answer": "Curiosity"
+    },
+    {
+    "category": "Science",
+    "question": "Which country successfully landed a rover on the far side of the moon in 2019?",
+    "answer": "China"
+    },
+    {
+    "category": "Science",
+    "question": "Which vaccine for COVID-19 was the first to be authorized for emergency use worldwide?",
+    "answer": "Pfizer-BioNTech"
+    },
+    {
+    "category": "Geography/History",
+    "question": "In 2011, Osama Bin Laden was found and killed in which country?",
+    "answer": "Pakistan"
+    },
+    {
+    "category": "Geography/History",
+    "question": "What was the name of the hurricane that devastated Puerto Rico in 2017?",
+    "answer": "Hurricane Maria"
+    },
+    {
+    "category": "Geography/History",
+    "question": "In which city did the 'Occupy Wall Street' movement begin in 2011??",
+    "answer": "New York City"
+    },
+    {
+    "category": "Geography/History",
+    "question": "Who was elected president of the United States in 2016?",
+    "answer": "Donald Trump"
+    },
+    {
+    "category": "Geography/History",
+    "question": "Which country's president, Bashar al-Assad, was accused of using chemical weapons against its citizens in 2013?",
+    "answer": "Syria"
+    },
+    {
+    "category": "Entertainment",
+    "question": "Which Disney movie, released in 2013, featured the song 'Let It Go'?",
+    "answer": "Frozen"
+    },
+    {
+    "category": "Entertainment",
+    "question": "Who won the 'Best Actor' Oscar in 2020 for his role in 'Joker'?",
+    "answer": "Joaquin Phoenix"
+    },
+    {
+    "category": "Entertainment",
+    "question": "Which British royal couple got married in 2011?",
+    "answer": "Prince William and Catherine Middleton"
+    },
+    {
+    "category": "Entertainment",
+    "question": "La La Land was mistakenly announced as the winner of Best Picture at the 2017 Oscars. Which film actually won?",
+    "answer": "Moonlight"
+    },
+    {
+    "category": "Entertainment",
+    "question": "Which South Korean band became a global sensation in 2019 with their song 'Boy With Luv'?",
+    "answer": "BTS"
+    },
+    {
+    "category": "Sports/Hobbies",
+    "question": "Who won the 2020 Super Bowl?",
+    "answer": "Kansas City Chiefs"
+    },
+    {
+    "category": "Sports/Hobbies",
+    "question": "Which city hosted the 2016 Summer Olympics?",
+    "answer": "Rio de Janeiro"
+    },
+    {
+    "category": "Sports/Hobbies",
+    "question": "Who won the Men's Singles at Wimbledon in 2019?",
+    "answer": "Novak Djokovic"
+    },
+    {
+    "category": "Sports/Hobbies",
+    "question": "Which team won the 2021 UEFA Champions League?",
+    "answer": "Chelsea"
+    },
+    {
+    "category": "Sports/Hobbies",
+    "question": "Who became the most decorated Olympian of all time in 2012?",
+    "answer": "Michael Phelps"
+    },
+    {
+    "category": "Geography/History",
+    "question": "In which year did the United Kingdom vote to leave the European Union?",
+    "answer": "2016"
+    },
+    {
+    "category": "Geography/History",
+    "question": "Which country was the first to legalize same-sex marriage in the year 2010?",
+    "answer": "Argentina"
+    },
+    {
+    "category": "Geography/History",
+    "question": "In 2011, where did the Arab Spring begin?",
+    "answer": "Tunisia"
+    },
+    {
+    "category": "Geography/History",
+    "question": "Who was the president of the United States during the 2020 election?",
+    "answer": "Donald Trump"
+    },
+    {
+    "category": "Geography/History",
+    "question": "Which country hosted the 2010 FIFA World Cup?",
+    "answer": "South Africa"
+    },
+    {
+    "category": "Science",
+    "question": "What is the name of the space telescope launched by NASA in 2018 that replaced the Hubble Space Telescope?",
+    "answer": "The James Webb Space Telescope"
+    },
+    {
+    "category": "Science",
+    "question": "From which animal did the COVID-19 virus is believed to have originated?",
+    "answer": "Bats"
+    },
+    {
+    "category": "Science",
+    "question": "Which SpaceX craft took astronauts to the International Space Station for the first time in 2020?",
+    "answer": "Crew Dragon"
+    },
+    {
+    "category": "Science",
+    "question": "What's the name of the Mars rover that was launched by NASA in 2020?",
+    "answer": "Perseverance"
+    },
+    {
+    "category": "Science",
+    "question": "In 2023, asteroid Apophis is predicted to come within how many miles of Earth?",
+    "answer": "20,000 miles"
+    },
+    {
+    "category": "Entertainment",
+    "question": "What is the name of the final episode of Game of Thrones, aired in 2019?",
+    "answer": "The Iron Throne"
+    },
+    {
+    "category": "Entertainment",
+    "question": "Which Artist won the most Grammy awards in 2012?",
+    "answer": "Adele"
+    },
+    {
+    "category": "Entertainment",
+    "question": "What movie won the Oscar for Best Picture in 2020?",
+    "answer": "Parasite"
+    },
+    {
+    "category": "Entertainment",
+    "question": "Who voiced Forky in Toy Story 4?",
+    "answer": "Tony Hale"
+    },
+    {
+    "category": "Entertainment",
+    "question": "In which 2013 film does Sandra Bullock play a medical engineer on her first shuttle mission?",
+    "answer": "Gravity"
+    },
+    {
+    "category": "Sports/Hobbies",
+    "question": "In 2016, who broke the record for the most home runs in a single season in Major League Baseball?",
+    "answer": "Mark McGwire"
+    },
+    {
+    "category": "Sports/Hobbies",
+    "question": "Who won the men's singles at the Wimbledon Championships in 2021?",
+    "answer": "Novak Djokovic"
+    },
+    {
+    "category": "Sports/Hobbies",
+    "question": "Who was awarded the FIFA Women's Player of the Year in 2019?",
+    "answer": "Megan Rapinoe"
+    },
+    {
+    "category": "Sports/Hobbies",
+    "question": "In what year did the Kansas City Chiefs win their first Super Bowl since 1969?",
+    "answer": "2020"
+    },
+    {
+    "category": "Sports/Hobbies",
+    "question": "Who won the 2017 Formula One World Drivers' Championship?",
+    "answer": "Lewis Hamilton"
+    },
+    {
+    "category": "Science",
+    "question": "Which NASA rover landed on Mars in February 2021?",
+    "answer": "Perseverance"
+    },
+    {
+    "category": "Science",
+    "question": "What groundbreaking technology has been developed to allow for precise genome manipulation, first discovered in 2012?",
+    "answer": "CRISPR-Cas9"
+    },
+    {
+    "category": "Science",
+    "question": "What is the name of the black hole that was captured in a real image for the first time in 2019?",
+    "answer": "Powehi"
+    },
+    {
+    "category": "Science",
+    "question": "Who won the 2020 Nobel Prize in Physics?",
+    "answer": "Roger Penrose, Andrea Ghez, and Reinhard Genzel"
+    },
+    {
+    "category": "Science",
+    "question": "What is the name of the space telescope launched in 2021 that is expected to succeed the Hubble Space Telescope?",
+    "answer": "James Webb Space Telescope"
+    },
+    {
+    "category": "Geography/History",
+    "question": "What country joined the European Union in 2013?",
+    "answer": "Croatia"
+    },
+    {
+    "category": "Geography/History",
+    "question": "In 2010, a massive earthquake hit the country of Haiti. What was its magnitude?",
+    "answer": "7.0"
+    },
+    {
+    "category": "Geography/History",
+    "question": "Which leader became the first female Chancellor of Germany in 2018?",
+    "answer": "Angela Merkel"
+    },
+    {
+    "category": "Geography/History",
+    "question": "In which African country did the 'Arab Spring' begin in 2010?",
+    "answer": "Tunisia"
+    },
+    {
+    "category": "Geography/History",
+    "question": "What country hosted the 2022 Winter Olympics?",
+    "answer": "China"
+    },
+    {
+    "category": "Entertainment",
+    "question": "Who won the Best Actor Oscar in 2020?",
+    "answer": "Joaquin Phoenix"
+    },
+    {
+    "category": "Entertainment",
+    "question": "Which movie won the Best Picture Oscar in 2019?",
+    "answer": "Green Book"
+    },
+    {
+    "category": "Entertainment",
+    "question": "Which artist released the hit single 'Blinding Lights' in 2020?",
+    "answer": "The Weeknd"
+    },
+    {
+    "category": "Entertainment",
+    "question": "What is the title of the 2021 James Bond film?",
+    "answer": "No Time To Die"
+    },
+    {
+    "category": "Entertainment",
+    "question": "Which artist had a hit in 2012 with the song 'Call Me Maybe'?",
+    "answer": "Carly Rae Jepsen"
+    },
+    {
+    "category": "Sports/Hobbies",
+    "question": "Who won the 2020 NBA championship?",
+    "answer": "Los Angeles Lakers"
+    },
+    {
+    "category": "Sports/Hobbies",
+    "question": "Who won the Men's Singles at Wimbledon in 2013?",
+    "answer": "Andy Murray"
+    },
+    {
+    "category": "Sports/Hobbies",
+    "question": "Who won the Women's FIFA World Cup in 2019?",
+    "answer": "USA"
+    },
+    {
+    "category": "Sports/Hobbies",
+    "question": "Which country will host the 2022 FIFA World Cup?",
+    "answer": "Qatar"
+    },
+    {
+    "category": "Sports/Hobbies",
+    "question": "Who won the 2023 Super Bowl?",
+    "answer":"not yet known"
+    },
+    {
+    "category": "Science",
+    "question": "In which year was the Mars Rover 'Perseverance' launched?",
+    "answer": "2020"
+    },
+    {
+    "category": "Science",
+    "question": "What is the first image of a black hole taken in 2019 by the EHT (Event Horizon Telescope)?",
+    "options":["Milky Way","Picea","Messier 87"],
+    "answer": "Messier 87"
+    },
+    {
+    "category": "Science",
+    "question": "Which private company sent astronauts to the International Space Station for the first time in 2020?",
+    "answer": "SpaceX"
+    },
+    {
+    "category": "Geography/History",
+    "question": "In 2016, which country voted to leave the European Union?",
+    "answer": "United Kingdom"
+    },
+    {
+    "category": "Geography/History",
+    "question": "Who was elected president of the United States in 2020?",
+    "answer": "Joe Biden"
+    },
+    {
+    "category": "Geography/History",
+    "question": "Which country had nationwide protests and riots starting in Minneapolis in 2020?",
+    "answer": "United States"
+    },
+    {
+    "category": "Arts",
+    "question": "Which famous artist painted 'The Starry Night' in 1889?",
+    "answer": "Vincent Van Gogh"
+    },
+    {
+    "category": "Arts",
+    "question": "In what year was the groundbreaking musical 'Hamilton' first performed on Broadway?",
+    "answer": "2015"
+    },
+    {
+    "category": "Miscellaneous",
+    "question": "The TV series 'Game of Thrones' concluded in which year?",
+    "answer": "2019"
+    },
+    {
+    "category": "Miscellaneous",
+    "question": "What is the name of the famous virtual currency founded in 2009?",
+    "answer": "Bitcoin"
+    },
+    {
+    "category": "Sports/Hobbies",
+    "question": "Which NBA team won the championship in 2020, honoring the memory of their late player, Kobe Bryant?",
+    "answer": "Los Angeles Lakers"
+    },
+    {
+    "category": "Sports/Hobbies",
+    "question": "Which country hosted the 2018 FIFA World Cup?",
+    "answer": "Russia"
+    },
+    {
+    "category": "Sports/Hobbies",
+    "question": "Who won the Men's Singles at the Wimbledon Championship in 2019?",
+    "answer": "Novak Djokovic"
+    },
+    {
+    "category": "Entertainment",
+    "question": "Which 2019 film won the Best Picture award at the 92nd Academy Awards in 2020?",
+    "answer": "Parasite"
+    },
+    {
+    "category": "Entertainment",
+    "question": "What is the name of the final film in the 'Avengers' series, released in 2019?",
+    "answer": "Avengers: Endgame"
+    },
+    {
+    "category": "Entertainment",
+    "question": "Who hosted the 91st Academy Awards in 2019?",
+    "answer": "No one, it was hostless."
+    },
+    {
+    "category": "Science",
+    "question": "What major disease outbreak took place in 2020?",
+    "answer": "COVID-19 pandemic"
+    },
+    {
+    "category": "Science",
+    "question": "Which planet did NASA's rover 'Perseverance' land on in 2021?",
+    "answer": "Mars"
+    },
+    {
+    "category": "Geography/History",
+    "question": "Which canal did a massive container ship block in 2021, disrupting global trade?",
+    "answer": "Suez Canal"
+    },
+    {
+    "category": "Geography/History",
+    "question": "In 2021, who became the oldest person to serve as President of the United States?",
+    "options":["Joe Biden", "Donald Trump", "Barack Obama"],
+    "answer": "Joe Biden"
+    },
+    {
+    "category": "Geography/History",
+    "question": "In 2018, what event caused a major diplomatic incident between Canada and Saudi Arabia?",
+    "answer": "Canada criticized Saudi Arabia's arrest of human rights activists"
+    },
+    {
+    "category": "Geography/History",
+    "question": "Which East African country had a historic peace deal with its neighbor in 2018, ending 20 years of war?",
+    "answer": "Ethiopia"
+    },
+    {
+    "category": "Geography/History",
+    "question": "What Central American country recognized Taiwan in 2021, leaving the UN as the only body not to recognize the nation as independent from China?",
+    "answer": "Honduras"
+    },
+    {
+    "category": "Science",
+    "question": "What Italian company produced the 3rd generation of slot-die coating heads used in the production of OLED displays in 2020?",
+    "answer": "Coatema Coating Machinery"
+    },
+    {
+    "category": "Science",
+    "question": "What country was successful in landing a mission on the far side of the Moon in 2019?",
+    "answer": "China"
+    },
+    {
+    "category": "Sports/Hobbies",
+    "question": "India won their first-ever Olympic medal in which individual sport during the 2020 Tokyo Olympics?",
+    "answer": "Track and field"
+    },
+    {
+    "category": "Sports/Hobbies",
+    "question": "In 2021, what record did Brazil's Marta Vieira da Silva break during the FIFA Women's World Cup?",
+    "answer": "She became the first player to score in five different World Cup tournaments"
+    },
+    {
+    "category": "Entertainment",
+    "question": "What K-Drama aired in 2020 became the first South Korean series to enter The New York Times' 'The 10 Best TV Shows of the Year'?",
+    "answer": "Crash Landing on You"
+    },
+    {
+    "category": "Entertainment",
+    "question": "What Mexican dark comedy-drama television series concluded in 2021 after five seasons?",
+    "answer": "The House of Flowers"
+    },
+    {
+    "category": "Miscellaneous",
+    "question": "What is the name of the Swedish environmental activist who gained international recognition for challenging world leaders to take immediate action against climate change in 2018?",
+    "answer": "Greta Thunberg"
+    },
+    {
+        "category": "Science",
+        "question": "Which scientist won the Nobel Prize in Physics in 2018 along with Gerard Mourou for their method of generating high-intensity, ultra-short optical pulses?",
+        "answer": "Donna Strickland"
+    },
+    {
+        "category": "Science",
+        "question": "What is the name of the high-profile astronomical event where the moon completely obscures the Sun, and it took place last in 2020?",
+        "answer": "Solar Eclipse"
+    },
+    {
+        "category": "Geography/History",
+        "question": "What UNESCO World Heritage site in Jordan celebrated 200 years of its rediscovery in 2012?",
+        "answer": "Petra"
+    },
+    {
+        "category": "Geography/History",
+        "question": "What significant global event happened on November 11, 2011, attracting thousands of couples to have their wedding on this day?",
+        "answer": "The date was 11/11/11"
+    },
+    {
+        "category": "Entertainment",
+        "question": "Who stepped down as the lead vocalist of the band 'Journey' in 2020?",
+        "answer": "Steve Perry"
+    },
+    {
+        "category": "Entertainment",
+        "question": "Which 2020 documentary, directed by American filmmakers Julia Reichert and Steven Bognar, won the Academy Award for Best Documentary Feature at the 92nd Academy Awards?",
+        "answer": "American Factory"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "Which British car manufacturer won the 2021 Formula 1 Constructors' Championship?",
+        "answer": "Mercedes"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "Which male tennis player won the most Grand Slam titles by the end of 2020?",
+        "answer": "Roger Federer, Rafael Nadal, and Novak Djokovic (they all had 20)"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "Which widely used technology celebrated its 60th anniversary in 2020?",
+        "answer": "Laser"
+    },
+    {
+        "category": "Science",
+        "question": "What was the name of the Mars rover launched by NASA in 2020?",
+        "answer": "Perseverance"
+    },
+    {
+        "category": "Science",
+        "question": "What type of celestial body did the New Horizons spacecraft fly by on January 1, 2019?",
+        "answer": "Ultima Thule (a Kuiper Belt object)"
+    },
+    {
+        "category": "Geography/History",
+        "question": "In what country did the 'Arab Spring' begin at the end of 2010?",
+        "answer": "Tunisia"
+    },
+    {
+        "category": "Geography/History",
+        "question": "What is the name of the opera house that opened in Harbin, China, in 2015?",
+        "answer": "Harbin Grand Theatre"
+    },
+    {
+        "category": "Entertainment",
+        "question": "Which album was the best-selling album worldwide in 2020?",
+        "answer": "Map of the Soul: 7 by BTS"
+    },
+    {
+        "category": "Entertainment",
+        "question": "What was the highest-grossing film of 2019?",
+        "answer": "Avengers: Endgame"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "Who won the 2019 FIFA Women's World Cup?",
+        "answer": "The United States"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "What country won the 2018 Winter Olympics?",
+        "answer": "Norway"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "Which company became the first to reach a market cap of $2 trillion in 2020?",
+        "answer": "Apple"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "Which famous luxury brand good company purchased Tiffany & Co. in 2021?",
+        "answer": "LVMH"
+    },
+    {
+        "category": "Science",
+        "question": "Which commercial company sent astronauts to the International Space Station for the first time in 2020?",
+        "answer": "SpaceX"
+    },
+    {
+        "category": "Science",
+        "question": "What is the CRISPR technology in genetics, which granted a 2020 Nobel prize to Emmanuelle Charpentier and Jennifer Doudna?",
+        "answer": "It's a method for genome editing"
+    },
+    {
+        "category": "Geography/History",
+        "question": "The Panama Canal extension 'canal expansion project', or Third Set of Locks Project, was completed in what year?",
+        "answer": "2016"
+    },
+    {
+        "category": "Geography/History",
+        "question": "Which European country announced its withdrawal from the European Union causing the Brexit in 2016?",
+        "answer": "United Kingdom"
+    },
+    {
+        "category": "Entertainment",
+        "question": "Who won Eurovision Song Contest in 2019?",
+        "answer": "Duncan Laurence from the Netherlands"
+    },
+    {
+        "category": "Entertainment",
+        "question": "What series finale in 2019 became the most-watched single telecast of a scripted show?",
+        "answer": "The Big Bang Theory"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "Who won the 2021 Super Bowl?",
+        "answer": "Tampa Bay Buccaneers"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "In which city were the 2020 Summer Olympics held in 2021 due to the COVID-19 pandemic?",
+        "answer": "Tokyo"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "Which popular video-conference application soared in popularity due to the global lockdown in 2020?",
+        "answer": "Zoom"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "What is the name of the American businessman who became the richest person in the world in 2021?",
+        "answer": "Elon Musk"
+    },
+    {
+        "category": "Science",
+        "question": "What name was given to the tallest skyscraper in the world, located in Dubai, when it was inaugurated in 2010?",
+        "answer": "Burj Khalifa"
+    },
+    {
+        "category": "Science",
+        "question": "What space probe did NASA launch in 2011 to investigate Jupiter?",
+        "answer": "Juno"
+    },
+    {
+        "category": "Geography/History",
+        "question": "In which South American country did violent protests erupt in 2019 over a rise in subway fares?",
+        "answer": "Chile"
+    },
+    {
+        "category": "Geography/History",
+        "question": "What historical peace agreement was signed in 2016 ending more than five decades of conflict in Colombia?",
+        "answer": "Peace agreement between the Colombian government and the FARC"
+    },
+    {
+        "category": "Entertainment",
+        "question": "Which popular TV show, based on characters from Archie Comics, premiered in 2017?",
+        "answer": "Riverdale"
+    },
+    {
+        "category": "Entertainment",
+        "question": "What South Korean film won four Academy Awards, including Best Picture, in 2020?",
+        "answer": "Parasite"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "Which team won the FIFA Men's World Cup held in Russia in 2018?",
+        "answer": "France"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "Who won the 2022 Men's Australian Open Tennis Tournament?",
+        "answer": "Rafael Nadal"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "In 2019, what social media platform banned political ads?",
+        "answer": "Twitter"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "Which year was officially declared as the International Year of Light by UNESCO?",
+        "answer": "2015"
+    },
+    {
+        "category": "Science",
+        "question": "What is the name of the spacecraft launched by ISRO in 2013 to orbit Mars?",
+        "answer": "Mangalyaan (Mars Orbiter Mission)"
+    },
+    {
+        "category": "Science",
+        "question": "Which device was unveiled by Amazon on November 6, 2014, that uses voice commands to perform tasks?",
+        "answer": "Amazon Echo (Alexa)"
+    },
+    {
+        "category": "Geography/History",
+        "question": "Which African country experienced a major Ebola outbreak in 2014?",
+        "answer": "Guinea"
+    },
+    {
+        "category": "Geography/History",
+        "question": "Who was elected the president of Brazil in 2018?",
+        "answer": "Jair Bolsonaro"
+    },
+    {
+        "category": "Entertainment",
+        "question": "Who won the Grammy Award for Album of the Year in 2021?",
+        "answer": "Taylor Swift"
+    },
+    {
+        "category": "Entertainment",
+        "question": "Which video game, released in 2020, allows you to play as a 'spiritfarer' helping spirits transition to the afterlife?",
+        "answer": "Spiritfarer"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "Who won the first ever Fortnite World Cup in 2019 at the age of 16?",
+        "answer": "Kyle 'Bugha' Giersdorf"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "In which city did the 2012 Summer Olympics take place?",
+        "answer": "London"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "Which app did Google introduce in 2015 to help users store and share photos?",
+        "answer": "Google Photos"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "What social media network did Donald Trump launch in 2022?",
+        "answer": "Truth Social"
+    },
+    {
+        "category": "Science",
+        "question": "Who was awarded the Nobel Prize in Physics in 2013 for the theoretical discovery of a mechanism that contributes to our understanding of the origin of mass of subatomic particles?",
+        "answer": "François Englert and Peter W. Higgs"
+    },
+    {
+        "category": "Science",
+        "question": "What mission was launched by NASA in 2020 to land the Perseverance rover on Mars?",
+        "answer": "Mars 2020"
+    },
+    {
+        "category": "Geography/History",
+        "question": "Which Middle Eastern country experienced a major political uprising known as the 'Cedar Revolution' in 2011?",
+        "answer": "Lebanon"
+    },
+    {
+        "category": "Geography/History",
+        "question": "Which country exited the European Union officially on January 31, 2020?",
+        "answer": "United Kingdom"
+    },
+    {
+        "category": "Entertainment",
+        "question": "Who played the character 'Wonder Woman' in the 2017 major blockbuster movie?",
+        "answer": "Gal Gadot"
+    },
+    {
+        "category": "Entertainment",
+        "question": "What is the name of the Broadway musical that became a huge hit in 2015, based on the life of a founding father of the United States?",
+        "answer": "Hamilton"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "Which gymnast broke the record for the most World Championships medals won by any gymnast in history in 2019?",
+        "answer": "Simone Biles"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "Which country hosted the FIFA Women's World Cup in 2019?",
+        "answer": "France"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "Which app, launched in 2016, allowed users to 'catch' virtual creatures in real world locations?",
+        "answer": "Pokémon Go"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "Which coin cryptocurrency was created in 2013 as a joke but later exploded in popularity?",
+        "answer": "Dogecoin"
+    },
+    {
+        "category": "Science",
+        "question": "In 2015, scientists of which project directly detected gravitational waves, proving a prediction of Einstein's theory of relativity?",
+        "answer": "LIGO (Laser Interferometer Gravitational-Wave Observatory)"
+    },
+    {
+        "category": "Science",
+        "question": "Gene-edited babies were born for the first time in 2018 as announced by a scientist from which country?",
+        "answer": "China"
+    },
+    {
+        "category": "Geography/History",
+        "question": "Which country declared its independence from Sudan in 2011?",
+        "answer": "South Sudan"
+    },
+    {
+        "category": "Geography/History",
+        "question": "Which country hosted the Winter Olympics in 2018?",
+        "answer": "South Korea"
+    },
+    {
+        "category": "Entertainment",
+        "question": "Which book series, written by E L James, gained massive popularity in the early 2010s?",
+        "answer": "Fifty Shades of Grey"
+    },
+    {
+        "category": "Entertainment",
+        "question": "What is the name of the protagonist in the video game 'The Legend of Zelda: Breath of the Wild', released in 2017?",
+        "answer": "Link"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "Which athlete won the men's 100 meter in the 2012 Olympics?",
+        "answer": "Usain Bolt"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "Which baseball team won the World Series in 2016, breaking a 108-year championship drought?",
+        "answer": "Chicago Cubs"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "Which company released the 'AirPods' in December 2016?",
+        "answer": "Apple"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "Which video featuring unlikely international collaboration became the most-watched video on YouTube in 2012 and was also a global hit?",
+        "answer": "Gangnam Style"
+    },
+    {
+        "category": "Science",
+        "question": "What disease, declared a pandemic by the World Health Organisation in 2020, forced people across the world into lockdown?",
+        "answer": "COVID-19"
+    },
+    {
+        "category": "Science",
+        "question": "Who was awarded the 2021 Nobel Prize in Chemistry for the development of lithium-ion batteries?",
+        "answer": "Akira Yoshino"
+    },
+    {
+        "category": "Geography/History",
+        "question": "Which city saw the return of two stolen Van Gogh paintings in 2017, thirteen years after their theft?",
+        "answer": "Amsterdam"
+    },
+    {
+        "category": "Geography/History",
+        "question": "Which country, situated on the Horn of Africa, saw the establishment of diplomatic relations with its neighboring country, Eritrea, in 2018?",
+        "answer": "Ethiopia"
+    },
+    {
+        "category": "Entertainment",
+        "question": "What classical piece of music was used as the theme for the 2010 film 'Inception'?",
+        "answer": "Non, Je Ne Regrette Rien by Edith Piaf"
+    },
+    {
+        "category": "Entertainment",
+        "question": "Which author’s series of mystery novels about private investigator Cormoran Strike were published under the pseudonym Robert Galbraith?",
+        "answer": "J.K. Rowling"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "Who set the record for the fastest solo sail around the world in 2020?",
+        "answer": "Charlie Dalin"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "Which city hosted the 2020 Summer Olympics in 2021 due to the COVID-19 pandemic?",
+        "answer": "Tokyo"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "Which dictionary declared 'post-truth' as their word of the year in 2016?",
+        "answer": "Oxford English Dictionary"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "Which famous British scientist passed away in March 2018?",
+        "answer": "Stephen Hawking"
+    },
+    {
+        "category": "Science",
+        "question": "Who became the first woman to win the Nobel prize in Physics in 55 years in 2018?",
+        "answer": "Donna Strickland"
+    },
+    {
+        "category": "Science",
+        "question": "What is the name of the Mars rover that landed on the Martian surface in 2021?",
+        "answer": "Perseverance"
+    },
+    {
+        "category": "Geography/History",
+        "question": "Which European country was rocked by a series of large anti-government protests known as the Yellow Vests movement starting in 2018?",
+        "answer": "France"
+    },
+    {
+        "category": "Geography/History",
+        "question": "In 2020, a large explosion occurred in the capital of which Middle Eastern country, leading to widespread damage and loss of life?",
+        "answer": "Lebanon"
+    },
+    {
+        "category": "Entertainment",
+        "question": "What type of animal is the title character in the incredibly popular 2019 Disney+ series 'The Mandalorian'?",
+        "answer": "Yoda (The Child / Grogu)"
+    },
+    {
+        "category": "Entertainment",
+        "question": "Which artist released the hit single 'Drivers License' in 2021?",
+        "answer": "Olivia Rodrigo"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "Who won the 2021 Formula 1 World Championship?",
+        "answer": "Max Verstappen"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "Which football team won the 2021 Super Bowl?",
+        "answer": "Tampa Bay Buccaneers"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "Which social media platform grew in popularity during the COVID-19 pandemic, with users creating short dance and singing videos?",
+        "answer": "TikTok"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "Which gaming platform introduced a virtual “metaverse” where players could create and explore player-created worlds?",
+        "answer": "Roblox"
+    },
+    {
+        "category": "Science",
+        "question": "What major event pertaining to the environment accord took place in Paris in 2015?",
+        "answer": "The Paris Agreement was adopted"
+    },
+    {
+        "category": "Science",
+        "question": "What is the name of the Space Telescope launched by NASA in 2021 to replace the Hubble Space Telescope?",
+        "answer": "James Webb Space Telescope"
+    },
+    {
+        "category": "Geography/History",
+        "question": "In which South American country were 12 boys and their football coach rescued from a flooded cave in 2018?",
+        "answer": "Thailand"
+    },
+    {
+        "category": "Geography/History",
+        "question": "Which Middle Eastern country saw the assassination of military leader Qasem Soleimani by a US drone strike in early 2020?",
+        "answer": "Iran"
+    },
+    {
+        "category": "Entertainment",
+        "question": "Which movie won the 2020 Oscar for Best Picture?",
+        "answer": "Parasite"
+    },
+    {
+        "category": "Entertainment",
+        "question": "What is the name of Billie Eilish's debut studio album, released in 2019?",
+        "answer": "When We All Fall Asleep, Where Do We Go?"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "Who is the tennis player who won both Wimbledon and the US Open in 2021?",
+        "answer": "Emma Raducanu"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "Who won the NBA championship in 2021?",
+        "answer": "Milwaukee Bucks"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "What is the name of the cryptocurrency, created in 2013 as a joke, that saw a major surge in value in 2021?",
+        "answer": "Dogecoin"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "Which company unveiled 'Cybertruck', an electric vehicle prototype with a futuristic design, in 2019?",
+        "answer": "Tesla"
+    },
+    {
+        "category": "Science",
+        "question": "¿Cuál es el nombre de la enfermedad que provocó una pandemia mundial en 2019-2020?",
+        "answer": "COVID-19"
+    },
+    {
+        "category": "Science",
+        "question": "¿Cuál es el nombre de la compañía que lanzó y revolucionó la industria de los vehículos eléctricos en la década de 2010?",
+        "answer": "Tesla"
+    },
+    {
+        "category": "Geography/History",
+        "question": "¿En qué ciudad de Ucrania tuvo lugar una gran explosión en 2020, provocando daños generalizados y la pérdida de vidas?",
+        "answer": "Beirut"
+    },
+    {
+        "category": "Geography/History",
+        "question": "¿Qué país asiático entró oficialmente en recesión por primera vez en más de 20 años en 2020?",
+        "answer": "Japón"
+    },
+    {
+        "category": "Entertainment",
+        "question": "¿Qué película de Marvel, lanzada en 2018, tuvo un elenco mayoritariamente africano-americano y fue aclamada por su impacto cultural?",
+        "answer": "Black Panther"
+    },
+    {
+        "category": "Entertainment",
+        "question": "¿Cuál es el nombre del exitoso musical de Broadway, estrenado en 2015, que cuenta la vida de uno de los padres fundadores de Estados Unidos?",
+        "answer": "Hamilton"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "¿Quién ganó el campeonato de la NBA en 2020?",
+        "answer": "Los Angeles Lakers"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "¿Quién ganó el campeonato mundial de ajedrez en 2018?",
+        "answer": "Magnus Carlsen"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "¿Cuál es el principal ingrediente del aderezo de ensalada Ranch, que experimentó un aumento en las ventas durante la década de 2010 debido a su popularidad en las redes sociales?",
+        "answer": "Buttermilk"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "¿Cuál es el nombre del minorista en línea que revolucionó el comercio electrónico en la década de 2010 con su servicio de entrega rápida y su interfaz fácil de usar?",
+        "answer": "Amazon"
+    },
+    {
+        "category": "Science",
+        "question": "What scientific discovery was made by the Event Horizon Telescope collaboration and presented to the world in April 2019?",
+        "answer": "The first image of a black hole"
+    },
+    {
+        "category": "Science",
+        "question": "Which medical term became common in 2020 and is referred to the loss of taste and smell?",
+        "answer": "Anosmia"
+    },
+    {
+        "category": "Geography/History",
+        "question": "What massive construction project, started in 2014, was completed in Istanbul on the 5th of July, 2021?",
+        "answer": "The Istanbul Canal"
+    },
+    {
+        "category": "Geography/History",
+        "question": "Which Hong Kong protests dubbed an 'Umbrella Revolution' happened in 2014?",
+        "answer": "Occupy Central with Love and Peace"
+    },
+    {
+        "category": "Entertainment",
+        "question": "Who won the Eurovision Song Contest in 2018?",
+        "answer": "Netta Barzilai, Israel"
+    },
+    {
+        "category": "Entertainment",
+        "question": "Which famous British actor and comedian created 'After Life', a Netflix series first released in 2019?",
+        "answer": "Ricky Gervais"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "Which nation hosted the most recent Rugby World Cup in 2019?",
+        "answer": "Japan"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "Who won the 2019 FIFA Women's World Cup?",
+        "answer": "United States"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "What popular mobile game, first released in 2016, involves capturing virtual creatures in real-world locations?",
+        "answer": "Pokemon Go"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "Who became the CEO of Amazon after Jeff Bezos in 2021?",
+        "answer": "Andy Jassy"
+    },
+    {
+        "category": "Science",
+        "question": "¿Qué sonda de la NASA llegó a Júpiter en julio de 2016?",
+        "answer": "Juno"
+    },
+    {
+        "category": "Science",
+        "question": "¿Qué término técnico se usó ampliamente en 2018 para describir la difusión intencional de desinformación en las redes sociales?",
+        "answer": "Fake news"
+    },
+    {
+        "category": "Geography/History",
+        "question": "¿Qué ciudad brasileña celebró los Juegos Olímpicos de verano en 2016?",
+        "answer": "Rio de Janeiro"
+    },
+    {
+        "category": "Geography/History",
+        "question": "¿Qué canal icónico de la televisión británica desapareció en 2015?",
+        "answer": "BBC Three"
+    },
+    {
+        "category": "Entertainment",
+        "question": "¿Qué exitoso espectáculo de televisión de Netflix debutó en julio de 2016?",
+        "answer": "Stranger Things"
+    },
+    {
+        "category": "Entertainment",
+        "question": "¿Qué videojuego, lanzado en 2017, popularizó el género de Battle Royale?",
+        "answer": "PlayerUnknown's Battlegrounds"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "¿Qué ciudad francesa fue sede de la final de la UEFA Euro 2016?",
+        "answer": "Saint-Denis"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "¿Qué equipo ganó la Copa Mundial de Críquet en 2019?",
+        "answer": "England"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "¿Qué compañía de tecnología cambió su logotipo a un arcoíris en 2015 para mostrar su soporte a la igualdad LGBT?",
+        "answer": "Apple"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "¿Cuál es el nombre de la red social que explotó en popularidad en 2020 y es conocida por sus videos con música y baile?",
+        "answer": "TikTok"
+    },
+    {
+        "category": "Science",
+        "question": "¿Cuál fue el nombre del rover de la NASA que aterrizó en Marte en febrero de 2021?",
+        "answer": "Perseverance"
+    },
+    {
+        "category": "Science",
+        "question": "¿Qué enfermedad transmitida por mosquitos se convirtió en una gran preocupación para la salud mundial en 2016?",
+        "answer": "Zika"
+    },
+    {
+        "category": "Geography/History",
+        "question": "¿En qué ciudad se celebró la cumbre histórica entre el presidente de EE. UU., Donald Trump, y el líder de Corea del Norte, Kim Jong-un, en 2018?",
+        "answer": "Singapur"
+    },
+    {
+        "category": "Geography/History",
+        "question": "¿Qué país fue el primero en permitir la venta de marihuana recreativa en farmacias en 2017?",
+        "answer": "Uruguay"
+    },
+    {
+        "category": "Entertainment",
+        "question": "¿Qué película ganó el premio a Mejor Película en los premios de la Academia de 2020?",
+        "answer": "Parasite"
+    },
+    {
+        "category": "Entertainment",
+        "question": "¿Quién fue la artista más joven en ganar el premio al Álbum del Año en los Grammy de 2020?",
+        "answer": "Billie Eilish"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "¿Qué equipo de fútbol ganó la Liga de Campeones de la UEFA en 2021?",
+        "answer": "Chelsea FC"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "¿Qué persona ganó la medalla de oro en el evento individual totalmente alrededor de la gimnasia femenina en los Juegos Olímpicos de 2020?",
+        "answer": "Sunisa Lee"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "¿Qué app se volvió viral en 2020 por permitir a los usuarios invertir en acciones sin comisiones?",
+        "answer": "Robinhood"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "¿Qué famoso canal de YouTube, conocido por desmontar y reparar productos tecnológicos, llegó a los 10 millones de suscriptores en 2021?",
+        "answer": "JerryRigEverything"
+    },
+    {
+        "category": "Science",
+        "question": "¿Qué compañía private hizo la primera tripulación de astronautas privados en mayo 2020?",
+        "answer": "SpaceX"
+    },
+    {
+        "category": "Science",
+        "question": "¿Qué telescopio espacial fue lanzado en 2021 con el objetivo de suceder al telescopio Hubble?",
+        "answer": "Telescopio Espacial James Webb"
+    },
+    {
+        "category": "Geography/History",
+        "question": "¿Qué pais ganó la Copa Mundial Femenina de la FIFA en 2019?",
+        "answer": "Estados Unidos"
+    },
+    {
+        "category": "Geography/History",
+        "question": "¿Quién fue elegido primer ministro del Reino Unido en julio de 2019?",
+        "answer": "Boris Johnson"
+    },
+    {
+        "category": "Entertainment",
+        "question": "¿Cuál fue la canción más transmitida en Spotify en 2020?",
+        "answer": "Blinding Lights de The Weeknd"
+    },
+    {
+        "category": "Entertainment",
+        "question": "¿Qué película de Marvel se convirtió en la película más taquillera de todos los tiempos en 2019?",
+        "answer": "Avengers: Endgame"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "¿Quién ganó el Tour de Francia en 2020?",
+        "answer": "Tadej Pogačar"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "¿Qué equipo de béisbol ganó la Serie Mundial en 2020?",
+        "answer": "Los Angeles Dodgers"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "¿Qué red social ha visto un crecimiento explosivo en 2020 y es famosa por su contenido creativo y a veces absurdo, además de TikTok?",
+        "answer": "Instagram Reels"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "¿Cuál fue el meme más popular en las redes sociales en 2021?",
+        "answer": "Bernie Sanders en la inauguración del presidente Biden"
+    },
+    {
+        "category": "Science",
+        "question": "¿Cuál fue el país de América Latina que inició el cambio por la eliminación del uso de bolsas plásticas en comercios en 2011?",
+        "answer": "Chile"
+    },
+    {
+        "category": "Science",
+        "question": "A inicios de los 2010, IBM presenta a Watson y se enfrenta en un partido en directo de Jeopardy contra dos de los mejores jugadores del histórico programa televisivo. ¿Cuál es el tipo de tecnología que implementa IBM Watson?",
+        "answer": "Inteligencia Artificial"
+    },
+    {
+        "category": "Geography/History",
+        "question": "¿Qué país se volvió independiente en julio de 2011, convirtiéndose en el país más joven del mundo?",
+        "answer": "Sudán del Sur"
+    },
+    {
+        "category": "Geography/History",
+        "question": "¿En qué año fue la famosa huelga de profesores en México?",
+        "answer": "2013"
+    },
+    {
+        "category": "Entertainment",
+        "question": "En 2012, el artista surcoreano PSY sacó una canción viral que rompió récords en YouTube. ¿Cómo se llamaba?",
+        "answer": "Gangnam Style"
+    },
+    {
+        "category": "Entertainment",
+        "question": "¿Qué película de Pixar de 2015 se centra en las emociones de una niña llamada Riley?",
+        "answer": "Inside Out (Intensa Mente)"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "¿Quién ganó el Mundial de la FIFA 2014?",
+        "answer": "Alemania"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "¿Quién fue campeón del US Open de tenis en el 2012 en la categoría masculina?",
+        "answer": "Andy Murray"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "¿Cuál aplicación de mensajería instantánea fue comprada por $ 19 mil millones por Facebook en 2014?",
+        "answer": "WhatsApp"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "¿Qué red social famosa por sus mensajes cortos aumentó su límite de caracteres de 140 a 280 en noviembre de 2017?",
+        "answer": "Twitter"
+    },
+    {
+        "category": "Science",
+        "question": "¿En qué año se puso en marcha el Gran Colisionador de Hadrones para realizar el experimento principal que validó la existencia del bosón de Higgs?",
+        "answer": "2012"
+    },
+    {
+        "category": "Science",
+        "question": "¿Cuál es el nombre del telescopio espacial de la NASA, lanzado en 2018, que buscará planetas fuera de nuestro sistema solar?",
+        "answer": "TESS"
+    },
+    {
+        "category": "Geography/History",
+        "question": "¿Qué conflicto armado empezó en 2014 y tiene lugar entre Rusia y Ucrania?",
+        "answer": "La Guerra en Donbass"
+    },
+    {
+        "category": "Geography/History",
+        "question": "¿Qué país alcanzó un récord de temperatura de 54.4℃ en agosto 2020, la temperatura más alta jamás registrada de manera confiable?",
+        "answer": "Estados Unidos"
+    },
+    {
+        "category": "Entertainment",
+        "question": "¿Cuál película ganó el Óscar a Mejor Película en 2012?",
+        "answer": "The Artist"
+    },
+    {
+        "category": "Entertainment",
+        "question": "¿Qué artista ganó el Grammy al Álbum del Año en 2020?",
+        "answer": "Billie Eilish"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "¿Quién estableció el récord mundial de los 100 metros lisos en 2012 con un tiempo de 9.63 segundos?",
+        "answer": "Usain Bolt"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "¿Qué equipo ganó la Super Bowl en 2011?",
+        "answer": "Green Bay Packers"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "En 2016, Reino Unido decidió abandonar la Unión Europea. ¿Cómo se llamó este famoso referéndum?",
+        "answer": "Brexit"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "¿Cuál es el nombre de la criptomoneda que llegó a su valor más alto en 2017 cuando costaba casi 20.000 dólares por unidad?",
+        "answer": "Bitcoin"
+    },
+    {
+        "category": "Science",
+        "question": "¿Cómo se llama el superordenador de IBM que ganó en el programa Jeopardy en 2011?",
+        "answer": "Watson"
+    },
+    {
+        "category": "Science",
+        "question": "¿Qué agencia espacial lanzó el rover Curiosity a Marte en 2011?",
+        "answer": "NASA"
+    },
+    {
+        "category": "Geography/History",
+        "question": "¿En qué año Fidel Castro dejó de ser el presidente de Cuba?",
+        "answer": "2011"
+    },
+    {
+        "category": "Geography/History",
+        "question": "¿En que año sucedió el ataque terrorista a la revista Charlie Hebdo en Francia?",
+        "answer": "2015"
+    },
+    {
+        "category": "Entertainment",
+        "question": "¿Que personaje de Juego de Tronos reina en el Norte al final de la serie en 2019?",
+        "answer": "Sansa Stark"
+    },
+    {
+        "category": "Entertainment",
+        "question": "¿Cuál serie de Netflix se convirtió en la más vista de la plataforma en 2019?",
+        "answer": "Stranger Things"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "¿Quién ganó la Champions League en 2010?",
+        "answer": "Inter de Milán"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "¿En qué ciudad se celebraron los Juegos Olímpicos de Verano de 2012?",
+        "answer": "Londres"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "¿Qué tipo de animal es 'Grumpy Cat', una sensación de internet que murió en 2019?",
+        "answer": "Gato"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "¿Qué aplicación de citas fue la más descargada en 2018?",
+        "answer": "Tinder"
+    },
+    {
+        "category": "Science",
+        "question": "¿En qué año la Organización Mundial de la Salud declaró el fin de la epidemia de Ébola en África occidental?",
+        "answer": "2016"
+    },
+    {
+        "category": "Science",
+        "question": "¿Quién recibió el Premio Nobel de Química en 2020 por el desarrollo de la herramienta de edición de genes CRISPR-Cas9?",
+        "answer": "Emmanuelle Charpentier y Jennifer A. Doudna"
+    },
+    {
+        "category": "Geography/History",
+        "question": "¿Dónde se produjo un devastador terremoto y tsunami en 2011 que provocó un grave accidente nuclear?",
+        "answer": "Fukushima, Japón"
+    },
+    {
+        "category": "Geography/History",
+        "question": "¿En qué ciudad de Estados Unidos tuvo lugar el movimiento de protesta conocido como Occupy Wall Street en 2011?",
+        "answer": "Nueva York"
+    },
+    {
+        "category": "Entertainment",
+        "question": "¿Cuál fue la canción más transmitida en Spotify en 2020?",
+        "answer": "Blinding Lights de The Weeknd"
+    },
+    {
+        "category": "Entertainment",
+        "question": "¿Cuál película de Marvel estrenada en 2018 se convirtió en la primera película de superhéroes nominada a Mejor Película en los Óscar?",
+        "answer": "Black Panther"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "¿Quién ganó el Tour de Francia 2019?",
+        "answer": "Egan Bernal"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "¿Qué equipo ganó la Copa del Mundo de la FIFA 2018?",
+        "answer": "Francia"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "¿Cuál fue el juguete más vendido durante la temporada navideña de 2016?",
+        "answer": "Hatchimals"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "¿Qué video se volvió viral en 2013, mostrando a una mujer mientras hacia twerking y accidentalmente prendía fuego a su departamento?",
+        "answer": "Fake Twerking Video por Jimmy Kimmel"
+    },
+    {
+        "category": "Science",
+        "question": "¿En qué año la sonda espacial New Horizons de la NASA sobrevoló el planeta enano Plutón?",
+        "answer": "2015"
+    },
+    {
+        "category": "Science",
+        "question": "¿En qué año se descubrió el bosón de Higgs, una partícula subatómica fundamental?",
+        "answer": "2012"
+    },
+    {
+        "category": "Geography/History",
+        "question": "¿Qué ciudad de Brasil fue sede de la Copa Mundial de la FIFA 2014?",
+        "answer": "Río de Janeiro"
+    },
+    {
+        "category": "Geography/History",
+        "question": "¿En qué año se inauguró el Burj Khalifa, el rascacielos más alto del mundo?",
+        "answer": "2010"
+    },
+    {
+        "category": "Entertainment",
+        "question": "¿Quién ganó el premio al Mejor Actor en los Óscar de 2019 por su interpretación en la película 'Bohemian Rhapsody'?",
+        "answer": "Rami Malek"
+    },
+    {
+        "category": "Entertainment",
+        "question": "¿Qué cantante y actriz protagonizó la película 'A Star is Born' en 2018?",
+        "answer": "Lady Gaga"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "¿Qué futbolista ganó el premio FIFA Balón de Oro en 2018?",
+        "answer": "Luka Modric"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "¿En qué ciudad se celebró la Copa Mundial de la FIFA 2018?",
+        "answer": "Moscú"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "¿Cuál fue el término de búsqueda más popular en Google en 2020?",
+        "answer": "Coronavirus"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "¿Qué red social se lanzó en 2010 y se hizo popular por sus mensajes cortos de solo 140 caracteres?",
+        "answer": "Twitter"
+    },
+    {
+        "category": "Science",
+        "question": "¿Qué robot explorador aterrizó en Marte en febrero de 2021 y comenzó a enviar fotografías del planeta?",
+        "answer": "Perseverance"
+    },
+    {
+        "category": "Geography/History",
+        "question": "¿En qué año se llevaron a cabo los Juegos Olímpicos de Invierno en Pyeongchang, Corea del Sur?",
+        "answer": "2018"
+    },
+    {
+        "category": "Entertainment",
+        "question": "¿Quién interpretó a Joker en la película de 2019 dirigida por Todd Phillips?",
+        "answer": "Joaquin Phoenix"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "¿Qué país ganó la Copa América en 2019?",
+        "answer": "Brasil"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "¿Cómo se llama el videojuego desarrollado por Epic Games que se convirtió en un fenómeno mundial en 2017?",
+        "answer": "Fortnite"
+    },
+    {
+        "category": "Science",
+        "question": "¿Quién desarrolló la vacuna contra el COVID-19 que fue aprobada en tiempo récord en 2020?",
+        "answer": "Pfizer y BioNTech"
+    },
+    {
+        "category": "Geography/History",
+        "question": "¿En qué año se inauguró el Canal de Panamá?",
+        "answer": "1914"
+    },
+    {
+        "category": "Entertainment",
+        "question": "¿Quién ganó el premio al Mejor Director en los Óscar de 2020 por la película 'Parasite'?",
+        "answer": "Bong Joon-ho"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "¿Quién ganó el premio FIFA Balón de Oro en 2019?",
+        "answer": "Lionel Messi"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "¿En qué año se estrenó la serie de televisión 'Game of Thrones'?",
+        "answer": "2011"
+    },
+    {
+        "category": "Science",
+        "question": "¿En qué año se descubrió el bosón de Higgs, también conocido como la 'partícula de Dios'?",
+        "answer": "2012"
+    },
+    {
+        "category": "Geography/History",
+        "question": "¿En qué año se firmó el Acuerdo de París sobre el cambio climático?",
+        "answer": "2015"
+    },
+    {
+        "category": "Entertainment",
+        "question": "¿Qué serie de televisión popular ambientada en el mundo medieval se estrenó en 2011?",
+        "answer": "Game of Thrones"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "¿Quién ganó el Balón de Oro de la FIFA en 2018?",
+        "answer": "Luka Modric"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "¿En qué año se lanzó el iPhone X?",
+        "answer": "2017"
+    },
+    {
+        "category": "Science",
+        "question": "¿Cuál es el elemento más abundante en el universo?",
+        "answer": "Hidrógeno"
+    },
+    {
+        "category": "Geography/History",
+        "question": "¿Cuál fue el país anfitrión de los Juegos Olímpicos de Verano de 2016?",
+        "answer": "Brasil"
+    },
+    {
+        "category": "Entertainment",
+        "question": "¿Quién interpretó a Rey en la trilogía de secuelas de Star Wars?",
+        "answer": "Daisy Ridley"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "¿Cuál equipo ganó la Copa Mundial de la FIFA en 2018?",
+        "answer": "Francia"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "¿En qué año se lanzó la plataforma de transmisión de video Disney+?",
+        "answer": "2019"
+    },
+    {
+        "category": "Science",
+        "question": "¿Qué misión de la NASA logró el aterrizaje exitoso en Marte en noviembre de 2018?",
+        "answer": "InSight"
+    },
+    {
+        "category": "Geography/History",
+        "question": "¿En qué año se llevaron a cabo los Juegos Olímpicos de Río de Janeiro?",
+        "answer": "2016"
+    },
+    {
+        "category": "Entertainment",
+        "question": "¿Quién interpretó a Black Widow en las películas del Universo Cinematográfico de Marvel?",
+        "answer": "Scarlett Johansson"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "¿Cuál fue el país ganador de la Copa del Mundo de la FIFA en 2014?",
+        "answer": "Alemania"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "¿En qué año se lanzó el primer iPhone?",
+        "answer": "2007"
+    },
+    {
+        "category": "Science",
+        "question": "¿Quién formuló la teoría de la relatividad?",
+        "answer": "Albert Einstein"
+    },
+    {
+        "category": "Geography/History",
+        "question": "¿En qué continente se encuentra el río Nilo?",
+        "answer": "África"
+    },
+    {
+        "category": "Entertainment",
+        "question": "¿Quién interpretó a Iron Man en las películas del Universo Cinematográfico de Marvel?",
+        "answer": "Robert Downey Jr."
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "¿Cuál es el deporte más popular en Estados Unidos?",
+        "answer": "Fútbol americano"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "¿Cuál es el país más poblado del mundo?",
+        "answer": "China"
+    },
+    {
+        "category": "Science",
+        "question": "¿Qué invento revolucionó la comunicación inalámbrica en 2016?",
+        "answer": "5G"
+    },
+    {
+        "category": "Geography/History",
+        "question": "¿En qué año se celebró el bicentenario de la independencia de México?",
+        "answer": "2010"
+    },
+    {
+        "category": "Entertainment",
+        "question": "¿Quién interpretó a Tony Stark/Iron Man en la trilogía de 'Iron Man'?",
+        "answer": "Robert Downey Jr."
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "¿Quién ganó el premio al Mejor Jugador del Mundo de la FIFA en 2019?",
+        "answer": "Lionel Messi"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "¿En qué año se lanzó el popular juego móvil 'Pokémon Go'?",
+        "answer": "2016"
+    },
+    {
+        "category": "Science",
+        "question": "¿Cuál es el planeta más grande del sistema solar?",
+        "answer": "Júpiter"
+    },
+    {
+        "category": "Geography/History",
+        "question": "¿En qué país tuvo lugar la Primavera Árabe en 2011?",
+        "answer": "Túnez"
+    },
+    {
+        "category": "Entertainment",
+        "question": "¿Quién interpretó a Katniss Everdeen en la saga de películas 'Los juegos del hambre'?",
+        "answer": "Jennifer Lawrence"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "¿Cuál fue el país ganador de la Copa Mundial Femenina de la FIFA en 2019?",
+        "answer": "Estados Unidos"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "¿En qué año se fundó la empresa Tesla, Inc.?",
+        "answer": "2003"
+    },
+    {
+        "category": "Science",
+        "question": "¿Qué famoso físico teórico escribió el libro 'Breve historia del tiempo'?",
+        "answer": "Stephen Hawking"
+    },
+    {
+        "category": "Geography/History",
+        "question": "¿En qué año se proclamó la Declaración de Independencia de los Estados Unidos?",
+        "answer": "1776"
+    },
+    {
+        "category": "Entertainment",
+        "question": "¿Quién fue el director de la película 'Inception'?",
+        "answer": "Christopher Nolan"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "¿Cuál es el equipo más exitoso en la historia de la NBA con 17 campeonatos?",
+        "answer": "Boston Celtics"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "¿En qué año se fundó la empresa SpaceX?",
+        "answer": "2002"
+    },
+    {
+        "category": "Science",
+        "question": "¿Cuál es el elemento químico con el símbolo 'Fe' en la tabla periódica?",
+        "answer": "Hierro"
+    },
+    {
+        "category": "Geography/History",
+        "question": "¿En qué año se llevó a cabo la batalla de las Termópilas?",
+        "answer": "480 a.C."
+    },
+    {
+        "category": "Entertainment",
+        "question": "¿Cuál es el nombre del actor que interpreta a Spider-Man en el Universo Cinematográfico de Marvel?",
+        "answer": "Tom Holland"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "¿Cuál es el deporte más popular en Canadá?",
+        "answer": "Hockey sobre hielo"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "¿En qué año se llevó a cabo la inauguración de los Juegos Olímpicos de Verano en Tokio?",
+        "answer": "2021"
+    },
+    {
+        "category": "Science",
+        "question": "¿Qué científico descubrió la estructura de doble hélice del ADN?",
+        "answer": "James Watson y Francis Crick"
+    },
+    {
+        "category": "Geography/History",
+        "question": "¿Cuál fue la capital de Alemania Oriental durante la Guerra Fría?",
+        "answer": "Berlín Oriental"
+    },
+    {
+        "category": "Entertainment",
+        "question": "¿Quién interpreta a Tony Stark / Iron Man en el Universo Cinematográfico de Marvel?",
+        "answer": "Robert Downey Jr."
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "¿Cuál es el deporte más popular en Brasil?",
+        "answer": "Fútbol"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "¿En qué año se fundó la empresa Airbnb?",
+        "answer": "2008"
+    },
+    {
+        "category": "Science",
+        "question": "¿Qué es la teoría de la relatividad de Albert Einstein?",
+        "answer": "Una teoría que describe la relación entre el tiempo, el espacio y la gravedad"
+    },
+    {
+        "category": "Geography/History",
+        "question": "¿En qué año se llevó a cabo la Revolución Rusa?",
+        "answer": "1917"
+    },
+    {
+        "category": "Entertainment",
+        "question": "¿Qué película de Disney ganó el premio Óscar a la Mejor Película Animada en 2013?",
+        "answer": "Frozen"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "¿Cuál es el deporte más popular en India?",
+        "answer": "Cricket"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "¿En qué año se lanzó el primer iPhone?",
+        "answer": "2007"
+    },
+    {
+        "category": "Science",
+        "question": "¿Cuál es la partícula subatómica con carga negativa?",
+        "answer": "Electrón"
+    },
+    {
+        "category": "Geography/History",
+        "question": "¿En qué año se llevó a cabo la Guerra de Vietnam?",
+        "answer": "1955-1975"
+    },
+    {
+        "category": "Entertainment",
+        "question": "¿Cuál es el personaje de Marvel que es conocido como el Dios del Trueno?",
+        "answer": "Thor"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "¿Cuál es el deporte más popular en Estados Unidos?",
+        "answer": "Fútbol americano"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "¿En qué año se llevó a cabo la boda del príncipe William y Kate Middleton?",
+        "answer": "2011"
+    },
+    {
+        "category": "Science",
+        "question": "¿Cuál es el proceso mediante el cual las células producen energía a partir de los alimentos?",
+        "answer": "Respiración celular"
+    },
+    {
+        "category": "Geography/History",
+        "question": "¿En qué año se llevó a cabo la independencia de México?",
+        "answer": "1821"
+    },
+    {
+        "category": "Entertainment",
+        "question": "¿En qué película de Star Wars se introduce el personaje de Yoda?",
+        "answer": "Star Wars: Episodio V - El Imperio Contraataca"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "¿Cuál es el deporte más popular en Japón?",
+        "answer": "Béisbol"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "¿En qué año se llevó a cabo la inauguración de los Juegos Olímpicos de Invierno en PyeongChang?",
+        "answer": "2018"
+    },
+    {
+        "category": "Science",
+        "question": "¿Cuál es el elemento químico más abundante en la Tierra?",
+        "answer": "Oxígeno"
+    },
+    {
+        "category": "Geography/History",
+        "question": "¿En qué año tuvo lugar la Segunda Guerra Mundial?",
+        "answer": "1939-1945"
+    },
+    {
+        "category": "Entertainment",
+        "question": "¿En qué película de James Bond aparece por primera vez el actor Daniel Craig como 007?",
+        "answer": "Casino Royale"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "¿Cuál es el deporte más popular en Australia?",
+        "answer": "Cricket"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "¿En qué año se llevó a cabo la primera edición del Festival de Música de Coachella?",
+        "answer": "1999"
+    },
+    {
+        "category": "Science",
+        "question": "¿Cuál es el órgano más grande del cuerpo humano?",
+        "answer": "La piel"
+    },
+    {
+        "category": "Geography/History",
+        "question": "¿En qué año se fundó la ONU (Organización de las Naciones Unidas)?",
+        "answer": "1945"
+    },
+    {
+        "category": "Entertainment",
+        "question": "¿Cuál es el nombre completo del personaje de Iron Man en los cómics de Marvel?",
+        "answer": "Anthony Edward Stark"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "¿Cuál es el deporte más popular en España?",
+        "answer": "Fútbol"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "¿En qué año se llevó a cabo la boda del príncipe Harry y Meghan Markle?",
+        "answer": "2018"
+    },
+    {
+        "category": "Science",
+        "question": "¿Cuál es la fuerza que mantiene unidos los átomos en una molécula?",
+        "answer": "Fuerza de enlace"
+    },
+    {
+        "category": "Geography/History",
+        "question": "¿En qué año se llevó a cabo la Revolución Rusa?",
+        "answer": "1917"
+    },
+    {
+        "category": "Entertainment",
+        "question": "¿En qué película de Marvel se introdujo por primera vez el personaje de Black Panther?",
+        "answer": "Capitán América: Civil War"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "¿Cuál es el deporte más popular en Brasil?",
+        "answer": "Fútbol"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "¿En qué año se llevó a cabo el matrimonio del Príncipe Guillermo y Kate Middleton?",
+        "answer": "2011"
+    },
+    {
+        "category": "Science",
+        "question": "¿Cuál es la especie animal más longeva en la Tierra?",
+        "answer": "Tortuga gigante"
+    },
+    {
+        "category": "Geography/History",
+        "question": "¿En qué año se llevó a cabo la independencia de Estados Unidos?",
+        "answer": "1776"
+    },
+    {
+        "category": "Entertainment",
+        "question": "¿En qué película de Harry Potter se introduce por primera vez el personaje de Luna Lovegood?",
+        "answer": "Harry Potter y la Orden del Fénix"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "¿Cuál es el deporte más popular en Argentina?",
+        "answer": "Fútbol"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "¿En qué año se llevó a cabo la ceremonia de clausura de los Juegos Olímpicos de Londres?",
+        "answer": "2012"
+    },
+    {
+        "category": "Science",
+        "question": "¿Cuál es la distancia aproximada entre la Tierra y el Sol en kilómetros?",
+        "answer": "149.6 millones de kilómetros"
+    },
+    {
+        "category": "Geography/History",
+        "question": "¿En qué año se llevó a cabo la Revolución Francesa?",
+        "answer": "1789"
+    },
+    {
+        "category": "Entertainment",
+        "question": "¿Cuál es el nombre del actor que interpreta a Iron Man en las películas de Marvel?",
+        "answer": "Robert Downey Jr."
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "¿Cuál es el deporte más popular en España?",
+        "answer": "Fútbol"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "¿En qué año se llevó a cabo la boda del Príncipe Harry y Meghan Markle?",
+        "answer": "2018"
+    },
+    {
+        "category": "Science",
+        "question": "¿Cuál es el órgano más grande del cuerpo humano?",
+        "answer": "La piel"
+    },
+    {
+        "category": "Geography/History",
+        "question": "¿En qué año se llevó a cabo la independencia de Argentina?",
+        "answer": "1816"
+    },
+    {
+        "category": "Entertainment",
+        "question": "¿Cuál es el nombre del actor que interpreta a Spider-Man en el Universo Cinematográfico de Marvel?",
+        "answer": "Tom Holland"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "¿Cuál es el deporte más popular en Alemania?",
+        "answer": "Fútbol"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "¿En qué año se llevó a cabo la ceremonia de apertura de los Juegos Olímpicos de Río de Janeiro?",
+        "answer": "2016"
+    },
+    {
+        "category": "Science",
+        "question": "¿Cuál es la teoría científica que explica la formación del universo a partir de una gran explosión?",
+        "answer": "Big Bang"
+    },
+    {
+        "category": "Geography/History",
+        "question": "¿En qué año se llevó a cabo la independencia de México?",
+        "answer": "1810"
+    },
+    {
+        "category": "Entertainment",
+        "question": "¿Qué actriz interpreta a Rey en las películas de Star Wars?",
+        "answer": "Daisy Ridley"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "¿Cuál es el deporte más popular en Estados Unidos?",
+        "answer": "Fútbol americano"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "¿En qué año se estrenó la primera temporada de la serie Game of Thrones?",
+        "answer": "2011"
+    },
+    {
+        "category": "Science",
+        "question": "¿Cuál es el metal más liviano que existe?",
+        "answer": "El litio"
+    },
+    {
+        "category": "Geography/History",
+        "question": "¿En qué año se llevó a cabo la independencia de Perú?",
+        "answer": "1821"
+    },
+    {
+        "category": "Entertainment",
+        "question": "¿Cuál es el director de la saga de películas El Señor de los Anillos?",
+        "answer": "Peter Jackson"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "¿Cuál es el deporte más popular en Francia?",
+        "answer": "Fútbol"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "¿En qué año se llevó a cabo la ceremonia de apertura de los Juegos Olímpicos de Tokio?",
+        "answer": "2021"
+    },
+    {
+        "category": "Science",
+        "question": "¿Cuál es el elemento químico con el número atómico 1?",
+        "answer": "Hidrógeno"
+    },
+    {
+        "category": "Geography/History",
+        "question": "¿En qué año se llevó a cabo la independencia de Brasil?",
+        "answer": "1822"
+    },
+    {
+        "category": "Entertainment",
+        "question": "¿Cuál es el nombre del actor que interpreta a Thor en las películas de Marvel?",
+        "answer": "Chris Hemsworth"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "¿Cuál es el deporte más popular en Japón?",
+        "answer": "Béisbol"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "¿En qué año comenzó la pandemia de COVID-19?",
+        "answer": "2019"
+    },
+    {
+        "category": "Science",
+        "question": "¿Cuál es el astro más grande del sistema solar?",
+        "answer": "El Sol"
+    },
+    {
+        "category": "Geography/History",
+        "question": "¿En qué año se llevó a cabo la independencia de Colombia?",
+        "answer": "1810"
+    },
+    {
+        "category": "Entertainment",
+        "question": "¿Cuál es el nombre del actor que interpreta a Capitán América en las películas de Marvel?",
+        "answer": "Chris Evans"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "¿Cuál es el deporte más popular en China?",
+        "answer": "Fútbol"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "¿En qué año se celebraron los Juegos Olímpicos de Londres?",
+        "answer": "2012"
+    },
+    {
+        "category": "Science",
+        "question": "¿Cuál es el metal más conductor de electricidad?",
+        "answer": "Plata"
+    },
+    {
+        "category": "Geography/History",
+        "question": "¿En qué año se llevó a cabo la independencia de Argentina?",
+        "answer": "1816"
+    },
+    {
+        "category": "Entertainment",
+        "question": "¿Cuál es el nombre del actor que interpreta a Iron Man en las películas de Marvel?",
+        "answer": "Robert Downey Jr."
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "¿Cuál es el deporte más popular en Australia?",
+        "answer": "Rugby"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "¿En qué año se llevó a cabo la Copa Mundial de Fútbol de Brasil?",
+        "answer": "2014"
+    },
+    {
+        "category": "Science",
+        "question": "¿Cuál es el planeta más grande del sistema solar?",
+        "answer": "Júpiter"
+    },
+    {
+        "category": "Geography/History",
+        "question": "¿En qué año se llevó a cabo la independencia de Chile?",
+        "answer": "1818"
+    },
+    {
+        "category": "Entertainment",
+        "question": "¿Cuál es el nombre del actor que interpreta a Spider-Man en las películas de Marvel?",
+        "answer": "Tom Holland"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "¿Cuál es el deporte más popular en Alemania?",
+        "answer": "Fútbol"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "¿En qué año se celebraron los Juegos Olímpicos de Río de Janeiro?",
+        "answer": "2016"
+    },
+    {
+        "category": "Science",
+        "question": "¿Cuál es el principal gas de efecto invernadero responsable del calentamiento global?",
+        "answer": "Dióxido de carbono"
+    },
+    {
+        "category": "Geography/History",
+        "question": "¿En qué año se llevó a cabo la independencia de México?",
+        "answer": "1821"
+    },
+    {
+        "category": "Entertainment",
+        "question": "¿Cuál es el nombre del actor que interpreta a Hulk en las películas de Marvel?",
+        "answer": "Mark Ruffalo"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "¿Cuál es el deporte más popular en España?",
+        "answer": "Fútbol"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "¿En qué año se llevó a cabo la Copa Mundial de Fútbol de Rusia?",
+        "answer": "2018"
+    },
+    {
+        "category": "Science",
+        "question": "¿Cuál es la fórmula química del agua?",
+        "answer": "H2O"
+    },
+    {
+        "category": "Geography/History",
+        "question": "¿En qué año se llevó a cabo la independencia de Perú?",
+        "answer": "1821"
+    },
+    {
+        "category": "Entertainment",
+        "question": "¿Cuál es el nombre del actor que interpreta a Black Widow en las películas de Marvel?",
+        "answer": "Scarlett Johansson"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "¿Cuál es el deporte más popular en Estados Unidos?",
+        "answer": "Fútbol americano"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "¿En qué año se celebraron los Juegos Olímpicos de Tokio?",
+        "answer": "2021"
+    },
+    {
+        "category": "Science",
+        "question": "¿Cuál es la partícula subatómica con carga positiva?",
+        "answer": "Protón"
+    },
+    {
+        "category": "Geography/History",
+        "question": "¿En qué año se llevó a cabo la independencia de Brasil?",
+        "answer": "1822"
+    },
+    {
+        "category": "Entertainment",
+        "question": "¿Cuál es el nombre del actor que interpreta a Thor en las películas de Marvel?",
+        "answer": "Chris Hemsworth"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "¿Cuál es el deporte más popular en Reino Unido?",
+        "answer": "Fútbol"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "¿En qué año se llevó a cabo la Copa Mundial de Fútbol de Qatar?",
+        "answer": "2022"
+    },
+    {
+        "category": "Science",
+        "question": "¿Cuál es el elemento químico más abundante en el universo?",
+        "answer": "Hidrógeno"
+    },
+    {
+        "category": "Geography/History",
+        "question": "¿En qué año se llevó a cabo la independencia de Colombia?",
+        "answer": "1810"
+    },
+    {
+        "category": "Entertainment",
+        "question": "¿Cuál es el nombre del actor que interpreta a Capitán América en las películas de Marvel?",
+        "answer": "Chris Evans"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "¿Cuál es el deporte más popular en Brasil?",
+        "answer": "Fútbol"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "¿En qué año se llevará a cabo la Copa Mundial de Fútbol de Estados Unidos?",
+        "answer": "2026"
+    },
+    {
+        "category": "Science",
+        "question": "¿Cuál es el proceso mediante el cual las plantas convierten la luz solar en energía?",
+        "answer": "Fotosíntesis"
+    },
+    {
+        "category": "Geography/History",
+        "question": "¿En qué año se llevó a cabo la independencia de Argentina?",
+        "answer": "1816"
+    },
+    {
+        "category": "Entertainment",
+        "question": "¿Cuál es el nombre del actor que interpreta a Iron Man en las películas de Marvel?",
+        "answer": "Robert Downey Jr."
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "¿Cuál es el deporte más popular en Alemania?",
+        "answer": "Fútbol"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "¿En qué año se celebraron los Juegos Olímpicos de Río de Janeiro?",
+        "answer": "2016"
+    },
+    {
+        "category": "Science",
+        "question": "¿Cuál es el ácido presente en las naranjas?",
+        "answer": "Ácido cítrico"
+    },
+    {
+        "category": "Geography/History",
+        "question": "¿En qué año se llevó a cabo la independencia de Chile?",
+        "answer": "1818"
+    },
+    {
+        "category": "Entertainment",
+        "question": "¿Cuál es el nombre del actor que interpreta a Spider-Man en las películas de Marvel?",
+        "answer": "Tom Holland"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "¿Cuál es el deporte más popular en Italia?",
+        "answer": "Fútbol"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "¿En qué año se llevará a cabo la Copa Mundial de Fútbol de Canadá, México y Estados Unidos?",
+        "answer": "2026"
+    },
+    {
+        "category": "Science",
+        "question": "¿Qué galaxia es la más cercana a la Vía Láctea?",
+        "answer": "Andrómeda"
+    },
+    {
+        "category": "Geography/History",
+        "question": "¿En qué año se llevó a cabo la independencia de México?",
+        "answer": "1810"
+    },
+    {
+        "category": "Entertainment",
+        "question": "¿Cómo se llama el actor que interpreta a Loki en las películas de Marvel?",
+        "answer": "Tom Hiddleston"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "¿Cuál es el deporte más popular en Australia?",
+        "answer": "Fútbol australiano"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "¿En qué año se llevó a cabo la Copa Mundial de Fútbol de Rusia?",
+        "answer": "2018"
+    },
+    {
+        "category": "Science",
+        "question": "¿Cuál es la medida de la fuerza de gravedad ejercida sobre un objeto?",
+        "answer": "Peso"
+    },
+    {
+        "category": "Geography/History",
+        "question": "¿En qué año se llevó a cabo la independencia de Uruguay?",
+        "answer": "1825"
+    },
+    {
+        "category": "Entertainment",
+        "question": "¿Cómo se llama el actor que interpreta a Starlord en las películas de Marvel?",
+        "answer": "Chris Pratt"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "¿Cuál es el deporte más popular en Canadá?",
+        "answer": "Hockey sobre hielo"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "¿En qué año se celebraron los Juegos Olímpicos de Londres?",
+        "answer": "2012"
+    },
+    {
+        "category": "Science",
+        "question": "¿Quién fue la primera persona en poner un pie en la luna?",
+        "answer": "Neil Armstrong"
+    },
+    {
+        "category": "Geography/History",
+        "question": "¿En qué año fue construido el Muro de Berlín?",
+        "answer": "1961"
+    },
+    {
+        "category": "Entertainment",
+        "question": "¿Quién escribió la novela 'Cien años de soledad'?",
+        "answer": "Gabriel Garcia Marquez"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "¿Cuántos jugadores hay en un equipo de fútbol?",
+        "answer": "11"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "¿Cómo se llama el estudio donde se grabaron las películas de Harry Potter?",
+        "answer": "Warner Bros. Studios Leavesden"
+    },
+    {
+        "category": "Science",
+        "question": "¿Cuál es el planeta más grande del sistema solar?",
+        "answer": "Júpiter"
+    },
+    {
+        "category": "Geography/History",
+        "question": "¿En qué ciudad se encuentra la famosa Torre Eiffel?",
+        "answer": "París"
+    },
+    {
+        "category": "Entertainment",
+        "question": "¿Cómo se llama la actriz que interpretó a Hermione Granger en las películas de Harry Potter?",
+        "answer": "Emma Watson"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "¿Cuántos aros hay en un partido de baloncesto?",
+        "answer": "2"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "¿Cómo se llama el creador de Facebook?",
+        "answer": "Mark Zuckerberg"
+    },
+    {
+        "category": "Science",
+        "question": "¿Cómo se llama el término científico para la hipótesis de que el universo está en expansión constante?",
+        "answer": "Teoría del Big Bang"
+    },
+    {
+        "category": "Geography/History",
+        "question": "¿Quién fue el primer emperador de la dinastía Ming de China?",
+        "answer": "Zhu Yuanzhang"
+    },
+    {
+        "category": "Entertainment",
+        "question": "¿Cuál es el nombre del compositor de la música para la trilogía de películas de El Señor de los Anillos?",
+        "answer": "Howard Shore"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "¿En qué año se celebraron los primeros Juegos Olímpicos modernos?",
+        "answer": "1896"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "¿Cuál es el nombre del autor del libro 'Mujercitas'?",
+        "answer": "Louisa May Alcott"
+    },
+    {
+        "category": "Art",
+        "question": "¿En qué año se pintó la obra 'La Noche Estrellada' de Vincent Van Gogh?",
+        "answer": "1889"
+    },
+    {
+        "category": "Science",
+        "question": "¿Qué elemento químico tiene el símbolo 'Au' en la tabla periódica?",
+        "answer": "Oro"
+    },
+    {
+        "category": "Geography/History",
+        "question": "¿En qué ciudad se celebraron los Juegos Olímpicos de 2012?",
+        "answer": "Londres"
+    },
+    {
+        "category": "Entertainment",
+        "question": "¿Cómo se llama el director de la película 'El Laberinto del Fauno'?",
+        "answer": "Guillermo del Toro"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "¿Qué jugador de golf ha ganado más veces el torneo de los Masters?",
+        "answer": "Jack Nicklaus"
+    },
+    {
+        "category": "Science",
+        "question": "¿Cuál es la longitud promedio de un intestino humano adulto?",
+        "answer": "Aproximadamente 6 metros"
+    },
+    {
+        "category": "Geography/History",
+        "question": "¿Dónde se encuentra la montaña más alta del mundo, el Monte Everest?",
+        "answer": "Nepal"
+    },
+    {
+        "category": "Entertainment",
+        "question": "¿Cuántos premios Oscar ganó la película 'Titanic'?",
+        "answer": "11 premios Oscar"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "¿Cuántas casillas tiene un tablero de ajedrez estándar?",
+        "answer": "64 casillas"
+    },
+    {
+        "category": "Miscellaneous",
+        "question": "¿Qué famoso empresario es fundador de la compañía de cohetes SpaceX?",
+        "answer": "Elon Musk"
+    },
+    {
+        "category": "Art",
+        "question": "¿Cuál es el nombre completo del famoso pintor Van Gogh?",
+        "answer": "Vincent Willem van Gogh"
+    },
+    {
+        "category": "Science",
+        "question": "¿Cuánto tarda la luz del sol en llegar a la Tierra?",
+        "answer": "Aproximadamente 8 minutos y 20 segundos"
+    },
+    {
+        "category": "Geography/History",
+        "question": "¿En qué año fue la caída del Muro de Berlín?",
+        "answer": "1989"
+    },
+    {
+        "category": "Entertainment",
+        "question": "¿Quién interpretó a Jack Dawson en la película 'Titanic'?",
+        "answer": "Leonardo DiCaprio"
+    },
+    {
+        "category": "Sports/Hobbies",
+        "question": "¿En qué año se celebraron los primeros Juegos Olímpicos en la antigua Grecia?",
+        "answer": "776 a.C."
+    },
+    {
+        "category": "Ciencia",
+        "question": "¿Qué planeta fue reclasificado como un 'planeta enano' en 2006?",
+        "answer": "Plutón"
+    },
+    
+    {
+        "category": "Geografía/Historia",
+        "question": "¿En qué país se produjo el desastre de la planta nuclear de Fukushima en 2011?",
+        "answer": "Japón"
+    },
+    
+    {
+        "category": "Entretenimiento",
+        "question": "¿Cuál fue la primer pelicula de Marvel en estrenar en la década del 2010?",
+        "answer": "Iron Man 2"
+    },
+    
+    {
+        "category": "Deportes/Pasatiempos",
+        "question": "¿Qué país ganó la Copa Mundial de Fútbol FIFA 2018?",
+        "answer": "Francia"
+    },
+    
+    {
+        "category": "Arte",
+        "question": "¿Quién ganó el premio Nobel de Literatura en 2020?",
+        "answer": "Louise Glück"
+    },
+    
+    {
+        "category": "Misceláneo",
+        "question": "¿Qué producto de Apple fue lanzado en 2010, generando una nueva categoría de dispositivos?",
+        "answer": "iPad"
+    },
+    
+    {
+        "category": "Ciencia",
+        "question": "¿En qué año se descubrió el Bosón de Higgs, también conocido como 'la partícula de Dios'?",
+        "answer": "2012"
+    },
+    
+    {
+        "category": "Geografía/Historia",
+        "question": "¿Qué líder político cubano falleció en el año 2016?",
+        "answer": "Fidel Castro"
+    },
+    
+    {
+        "category": "Entretenimiento",
+        "question": "¿Qué serie de televisión basada en libros de George R. R. Martin se estrenó en 2011?",
+        "answer": "Game of Thrones"
+    },
+    
+    {
+        "category": "Deportes/Pasatiempos",
+        "question": "¿Qué tenista ganó 5 Campeonatos de Wimbledon consecutivos entre 2010 y 2023?",
+        "answer": "Ninguno"
+    },
+    {
+        "category": "Ciencia",
+        "question": "¿Qué país se convirtió en el tercer país en aterrizar en la luna en 2019?",
+        "answer": "China"
+    },
+    {
+        "category": "Geografía/Historia",
+        "question": "¿En qué año se retiró del poder Angela Merkel?", 
+        "answer": "2021"
+    },
+    {
+        "category": "Entretenimiento",
+        "question": "¿Qué película ganó el Oscar a la mejor película en 2020?", 
+        "answer": "Parásitos"
+    },
+    {
+        "category": "Deportes/Pasatiempos",
+        "question": "¿Qué país ganó la Eurocopa 2020?" ,
+        "answer": "Italia"
+    },
+    {
+        "category": "Arte",
+        "question": "¿Qué pintor holandés fue el tema de la exhibición 'Immersione nella luce' en 2022 en Roma?", 
+        "answer": "Vincent Van Gogh"
+    },
+    {
+        "category": "Misceláneo",
+        "question": "¿Qué red social ha visto un enorme crecimiento desde su lanzamiento en 2016?", 
+        "answer": "TikTok"
+    },
+    {
+        "category": "Ciencia",
+        "question": "¿Qué virus causó una pandemia mundial a principios de 2020?" , 
+        "answer": "Coronavirus"
+    },
+    {
+        "category": "Geografía/Historia",
+        "question": "¿En qué año se celebró el Brexit, donde Reino Unido abandonó oficialmente la Unión Europea?",
+        "answer": "2020"
+    }, 
+    {
+        "category": "Entretenimiento",
+        "question": "¿Qué película se convirtió en la película más taquillera de todos los tiempos en 2019?", 
+        "answer": "Avengers: Endgame"
+    },
+    {
+        "category": "Deportes/Pasatiempos",
+        "question": "¿En qué ciudad se celebraron las Olimpiadas de Verano 2021?" ,
+        "answer": "Tokio"
+    }
+    
+
+]
