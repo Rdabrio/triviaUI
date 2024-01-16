@@ -1,9 +1,21 @@
 import { useState } from 'react'
+import $ from 'jquery'; 
 
-function Category({name="default", icon="calendar", color="black"}) {
+function Category({name="default", icon="calendar", color="white"}) {
+
+    const categories = ["Entretenimiento", "Geografia", "Misceláneo", "Ciencia", "Arte", "Deportes"]
+
+    function selectButton() {
+        $(`#category-${name}`).toggleClass("btn-dark bg-dark")
+        categories.forEach((cat) => {
+            if (cat != name)  $(`#category-${cat}`).removeClass("btn-dark bg-dark")
+        })
+       
+    }
+
     return (
         <>
-        <button className="btn col-10" style={{color: "white", backgroundColor: color}}>{name}</button>
+            <button id={`category-${name}`} className="btn col-8" style={{backgroundColor: color}} onClick={selectButton}>{name}</button>
         </>
     )
 }
