@@ -104,27 +104,27 @@
     },
 
     {
-        "category": "Art",
+        "category": "Arts",
         "question": "Who won the Grammy for Album of the Year in 2020?",
         "answer": "Billie Eilish"
     },
     {
-        "category": "Art",
+        "category": "Arts",
         "question": "Who painted 'The Physical Impossibility of Death in the Mind of Someone Living' that sold for a record amount in 2013?",
         "answer": "Damien Hirst"
     },
     {
-        "category": "Art",
+        "category": "Arts",
         "question": "Who painted the 'Salvator Mundi' that sold for over $450 million in 2017?",
         "answer": "Leonardo da Vinci"
     },
     {
-        "category": "Art",
+        "category": "Arts",
         "question": "What kind of art style did Shepard Fairey use in his iconic 'Hope' poster for Barack Obama's 2008 campaign?",
-        "answer": "Street Art"
+        "answer": "Street Arts"
     },
     {
-        "category": "Art",
+        "category": "Arts",
         "question": "Which book series, first published in the 2010s, features a dystopian future society where youth fight to the death in a televised event?",
         "answer": "The Hunger Games"
     },
@@ -669,7 +669,7 @@
     },
     {
     "category": "Entertainment",
-    "question": "Which Artist won the most Grammy awards in 2012?",
+    "question": "Which Artsist won the most Grammy awards in 2012?",
     "answer": "Adele"
     },
     {
@@ -1521,7 +1521,7 @@
     },
     {
         "category": "Geography/History",
-        "question": "What massive construction project, started in 2014, was completed in Istanbul on the 5th of July, 2021?",
+        "question": "What massive construction project, stArtsd in 2014, was completed in Istanbul on the 5th of July, 2021?",
         "answer": "The Istanbul Canal"
     },
     {
@@ -1611,7 +1611,7 @@
     },
     {
         "category": "Science",
-        "question": "¿Cuál fue el nombre del rover de la NASA que aterrizó en Marte en febrero de 2021?",
+        "question": "¿Cuál fue el nombre del rover de la NASA que aterrizó en MArts en febrero de 2021?",
         "answer": "Perseverance"
     },
     {
@@ -1717,7 +1717,7 @@
     {
         "category": "Science",
         "question": "A inicios de los 2010, IBM presenta a Watson y se enfrenta en un partido en directo de Jeopardy contra dos de los mejores jugadores del histórico programa televisivo. ¿Cuál es el tipo de tecnología que implementa IBM Watson?",
-        "answer": "Inteligencia Artificial"
+        "answer": "Inteligencia Artsificial"
     },
     {
         "category": "Geography/History",
@@ -1782,7 +1782,7 @@
     {
         "category": "Entertainment",
         "question": "¿Cuál película ganó el Óscar a Mejor Película en 2012?",
-        "answer": "The Artist"
+        "answer": "The Artsist"
     },
     {
         "category": "Entertainment",
@@ -1816,7 +1816,7 @@
     },
     {
         "category": "Science",
-        "question": "¿Qué agencia espacial lanzó el rover Curiosity a Marte en 2011?",
+        "question": "¿Qué agencia espacial lanzó el rover Curiosity a MArts en 2011?",
         "answer": "NASA"
     },
     {
@@ -1961,7 +1961,7 @@
     },
     {
         "category": "Science",
-        "question": "¿Qué robot explorador aterrizó en Marte en febrero de 2021 y comenzó a enviar fotografías del planeta?",
+        "question": "¿Qué robot explorador aterrizó en MArts en febrero de 2021 y comenzó a enviar fotografías del planeta?",
         "answer": "Perseverance"
     },
     {
@@ -2061,7 +2061,7 @@
     },
     {
         "category": "Science",
-        "question": "¿Qué misión de la NASA logró el aterrizaje exitoso en Marte en noviembre de 2018?",
+        "question": "¿Qué misión de la NASA logró el aterrizaje exitoso en MArts en noviembre de 2018?",
         "answer": "InSight"
     },
     {
@@ -2885,7 +2885,7 @@
         "answer": "Louisa May Alcott"
     },
     {
-        "category": "Art",
+        "category": "Arts",
         "question": "¿En qué año se pintó la obra 'La Noche Estrellada' de Vincent Van Gogh?",
         "answer": "1889"
     },
@@ -2935,7 +2935,7 @@
         "answer": "Elon Musk"
     },
     {
-        "category": "Art",
+        "category": "Arts",
         "question": "¿Cuál es el nombre completo del famoso pintor Van Gogh?",
         "answer": "Vincent Willem van Gogh"
     },
@@ -2960,31 +2960,31 @@
         "answer": "776 a.C."
     },
     {
-        "category": "Ciencia",
+        "category": "Science",
         "question": "¿Qué planeta fue reclasificado como un 'planeta enano' en 2006?",
         "answer": "Plutón"
     },
     
     {
-        "category": "Geografía/Historia",
+        "category": "Geography/History",
         "question": "¿En qué país se produjo el desastre de la planta nuclear de Fukushima en 2011?",
         "answer": "Japón"
     },
     
     {
-        "category": "Entretenimiento",
+        "category": "Entertainment",
         "question": "¿Cuál fue la primer pelicula de Marvel en estrenar en la década del 2010?",
         "answer": "Iron Man 2"
     },
     
     {
-        "category": "Deportes/Pasatiempos",
+        "category": "Sports/Hobbies",
         "question": "¿Qué país ganó la Copa Mundial de Fútbol FIFA 2018?",
         "answer": "Francia"
     },
     
     {
-        "category": "Arte",
+        "category": "Arts",
         "question": "¿Quién ganó el premio Nobel de Literatura en 2020?",
         "answer": "Louise Glück"
     },
@@ -2996,50 +2996,50 @@
     },
     
     {
-        "category": "Ciencia",
+        "category": "Science",
         "question": "¿En qué año se descubrió el Bosón de Higgs, también conocido como 'la partícula de Dios'?",
         "answer": "2012"
     },
     
     {
-        "category": "Geografía/Historia",
+        "category": "Geography/History",
         "question": "¿Qué líder político cubano falleció en el año 2016?",
         "answer": "Fidel Castro"
     },
     
     {
-        "category": "Entretenimiento",
+        "category": "Entertainment",
         "question": "¿Qué serie de televisión basada en libros de George R. R. Martin se estrenó en 2011?",
         "answer": "Game of Thrones"
     },
     
     {
-        "category": "Deportes/Pasatiempos",
+        "category": "Sports/Hobbies",
         "question": "¿Qué tenista ganó 5 Campeonatos de Wimbledon consecutivos entre 2010 y 2023?",
         "answer": "Ninguno"
     },
     {
-        "category": "Ciencia",
+        "category": "Science",
         "question": "¿Qué país se convirtió en el tercer país en aterrizar en la luna en 2019?",
         "answer": "China"
     },
     {
-        "category": "Geografía/Historia",
+        "category": "Geography/History",
         "question": "¿En qué año se retiró del poder Angela Merkel?", 
         "answer": "2021"
     },
     {
-        "category": "Entretenimiento",
+        "category": "Entertainment",
         "question": "¿Qué película ganó el Oscar a la mejor película en 2020?", 
         "answer": "Parásitos"
     },
     {
-        "category": "Deportes/Pasatiempos",
+        "category": "Sports/Hobbies",
         "question": "¿Qué país ganó la Eurocopa 2020?" ,
         "answer": "Italia"
     },
     {
-        "category": "Arte",
+        "category": "Arts",
         "question": "¿Qué pintor holandés fue el tema de la exhibición 'Immersione nella luce' en 2022 en Roma?", 
         "answer": "Vincent Van Gogh"
     },
@@ -3049,22 +3049,22 @@
         "answer": "TikTok"
     },
     {
-        "category": "Ciencia",
+        "category": "Science",
         "question": "¿Qué virus causó una pandemia mundial a principios de 2020?" , 
         "answer": "Coronavirus"
     },
     {
-        "category": "Geografía/Historia",
+        "category": "Geography/History",
         "question": "¿En qué año se celebró el Brexit, donde Reino Unido abandonó oficialmente la Unión Europea?",
         "answer": "2020"
     }, 
     {
-        "category": "Entretenimiento",
+        "category": "Entertainment",
         "question": "¿Qué película se convirtió en la película más taquillera de todos los tiempos en 2019?", 
         "answer": "Avengers: Endgame"
     },
     {
-        "category": "Deportes/Pasatiempos",
+        "category": "Sports/Hobbies",
         "question": "¿En qué ciudad se celebraron las Olimpiadas de Verano 2021?" ,
         "answer": "Tokio"
     }
