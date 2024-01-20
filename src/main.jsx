@@ -1,10 +1,12 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import App from './App.jsx'
-import {BrowserRouter, Route} from 'react-router-dom/BrowserRouter'
+import {BrowserRouter, Route, Routes} from 'react-router-dom/BrowserRouter'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  <BrowserRouter basename="https://rdabrio.github.io/triviaUI/">
-    <App />
+  <BrowserRouter>
+    <Routes>
+      <Route path="/" element={<App />}></Route>
+    </Routes>
   </BrowserRouter>
 )
