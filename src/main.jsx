@@ -6,7 +6,7 @@ import {BrowserRouter, Route, Routes} from 'react-router-dom'
 ReactDOM.createRoot(document.getElementById('root')).render(
   <BrowserRouter>
     <Routes>
-      <Route path="/" element={<App />}></Route>
+      <Route path="/triviaUI/" element={<App />}></Route>
     </Routes>
   </BrowserRouter>
 )
