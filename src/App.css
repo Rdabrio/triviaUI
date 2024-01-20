@@ -76,6 +76,6 @@ body {
 }
 
 .answer {
-  filter: blur(4px);
+  filter: blur(15px);
 }
 
