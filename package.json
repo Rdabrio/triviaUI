@@ -1,8 +1,8 @@
 {
   "name": "triviaui",
-  "private": false,
+  "private": true,
   "version": "0.1.0",
-  "homepage": "https://rdabrio.github.io/triviaUI",
+  "homepage": "https://rdabrio.github.io/triviaUI/",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -10,7 +10,7 @@
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "bootstrap": "^5.3.2",
@@ -18,7 +18,8 @@
     "react": "^18.2.0",
     "react-bootstrap": "^2.9.2",
     "react-dom": "^18.2.0",
-    "react-pro-sidebar": "^1.1.0-alpha.1"
+    "react-pro-sidebar": "^1.1.0-alpha.1",
+    "react-router-dom": "^6.21.3"
   },
   "devDependencies": {
     "@types/react": "^18.2.43",
