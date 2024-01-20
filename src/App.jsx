@@ -17,7 +17,9 @@ import sports from './assets/sports.png'
 import calendar from './assets/calendar.png'
 import t from './assets/letter-t.png'
 import check from './assets/check-mark.png'
+import hide from './assets/eye (1).png'
 import questions from './data/2010-2023.json'
+import $ from 'jquery'; 
 
 function App() {
 
@@ -56,6 +58,8 @@ function App() {
   function handleGenerate() {
     if (categorySelected != "" && thematicSelected != "") {
       setQuestionToDisplay(finalQuestions.at(getRandomInt(0, finalQuestions.length)))
+      $("#answer").addClass("answer")
+      $("#hideimg").css('display', '')
       setViewInstructions(false)
     }
     
@@ -110,7 +114,14 @@ function App() {
         <div className="border border-5 question col-sm-8 p-1">
           <p className="fw-bold text-center border-bottom border-3 pt-2 pb-2 fs-5">{categorySelected}</p>
           <p className="text-center mt-2">{questionToDisplay.question}</p>
-          <p className="text-center">Respuesta: {questionToDisplay.answer}</p>
+          <div>
+            <p id="answer" className="text-center answer fw-bold">Respuesta: {questionToDisplay.answer}</p>
+            <img src={hide} id="hideimg" onClick={() => {
+            $("#answer").removeClass("answer")
+            $("#hideimg").css('display', 'none')
+            }} style={{width: 25, height: 25, position:'relative', left:'45%', top:'10%', cursor:'pointer'}}></img>
+          </div>
+          
         </div>
       }
         
